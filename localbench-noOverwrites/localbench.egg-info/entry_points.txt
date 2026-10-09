@@ -1,0 +1,2 @@
+[console_scripts]
+localbench = localbench.cli:main

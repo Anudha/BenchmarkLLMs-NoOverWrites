@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: localbench
+Version: 0.3.0
+Summary: Live, daily-refreshed local business / business search benchmark, many verticals (NEEDLE-style)
+License: MIT
+Requires-Python: >=3.10
+Requires-Dist: requests>=2.31
+Requires-Dist: cryptography>=42
+Provides-Extra: dev
+Requires-Dist: pytest>=8; extra == "dev"
