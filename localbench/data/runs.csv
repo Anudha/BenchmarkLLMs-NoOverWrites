@@ -1,0 +1,2 @@
+run_id,date,created_at,n_queries,verticals,cities,sealed,sha256,queries_file,gold_file
+2026-10-09-r1,2026-10-09,2026-10-09T01:57:00Z,20,coffee_shops;grocery_produce;bike_trails,austin;philadelphia;new_orleans;boston;san_francisco;amsterdam,false,1080342baca6fddc7e43e910cae6f5261d3ce6630fbe038a09592d079e4e7da5,queries/2026-10-09-r1.csv,gold/2026-10-09-r1.csv

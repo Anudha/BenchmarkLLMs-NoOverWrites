@@ -1,0 +1,4 @@
+run_id,date,vertical,n_queries,n_fresh,pool_stable,pool_fresh,fields,cities
+2026-10-09-r1,2026-10-09,coffee_shops,7,2,613,41,address:2;name:2;phone:2;website:1,austin;philadelphia;new_orleans;boston;san_francisco;amsterdam
+2026-10-09-r1,2026-10-09,grocery_produce,7,2,103,2,address:2;name:1;phone:2;website:2,austin;philadelphia;new_orleans;boston;san_francisco;amsterdam
+2026-10-09-r1,2026-10-09,bike_trails,6,2,120,7,length:5;surface:1,austin;philadelphia;new_orleans;boston;san_francisco;amsterdam

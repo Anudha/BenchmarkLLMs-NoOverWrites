@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+76d6c9b3f51b,ddgs,error,,,,,,DDGSException: No results found.,0.698
+e86e07949ec1,ddgs,result,1,https://www.mapquest.com/us/texas/longhorn-coffee-co-785703088,"Longhorn Coffee Co., Austin, TX 78712, US - MapQuest","Get more information for Longhorn Coffee Co. in Austin, TX. See reviews, map, get the address, and find directions.",,,0.643
+e86e07949ec1,ddgs,result,2,https://housing.utexas.edu/dining/dining-locations/coffee-shops/longhorn-coffee-co,Longhorn Coffee Co. | University Housing and Dining,"Check out this coffee shop proudly serving Starbucks coffee and other on the go options in the WCP Student Activity Center. Longhorn Coffee Co. has a variety of hot and cold beverages to choose from, as well as bakery items and other food selections. Visit the University Unions website for hours of operation and additional information pertaining to this location and other WCP Student Activity ...",,,0.643
+e86e07949ec1,ddgs,result,3,https://joe.coffee/locations/tx/austin/longhorn-coffee-co-austin/,"Longhorn Coffee Co - Austin, TX | joe coffee",About Longhorn Coffee Co Longhorn Coffee Co is a genuine neighborhood gathering spot where real people craft real coffee with care. This independent Austin cafe values its community—from honoring student IDs to engaging directly with customers—creating the kind of personal connection you won't find at a chain. Whether you're stopping by for your daily brew or lingering over conversation ...,,,0.643
+e86e07949ec1,ddgs,result,4,https://maps.apple.com/place?place-id=I8143119600C8C2C5,"Longhorn Coffee Co. in Austin, TX United States - Apple Maps","View details about Longhorn Coffee Co. in Austin, TX United States on Apple Maps. Address, driving directions, images, nearby attractions and more.",,,0.643
+e86e07949ec1,ddgs,result,5,https://yourgirlneedscoffee.com/shop/longhorn-coffee-co-austin-tx,"Longhorn Coffee Co - Austin, TX | Your Girl Needs Coffee: The Map of ...","Longhorn Coffee Co in Austin, Texas. Located at 2201 Speedway, Austin, TX 78712. Rated 4.2 stars. Find hours, reviews, and directions.",,,0.643
+65ef96133353,ddgs,error,,,,,,DDGSException: No results found.,0.122
+ed892c1d7ae5,ddgs,error,,,,,,DDGSException: No results found.,0.09
+7357c7bd985a,ddgs,error,,,,,,DDGSException: No results found.,0.084
+d81aa3a08645,ddgs,error,,,,,,DDGSException: No results found.,0.059
+e790743eaa23,ddgs,error,,,,,,DDGSException: No results found.,0.139
+260d34b77443,ddgs,error,,,,,,DDGSException: No results found.,0.109
+5fa69d497753,ddgs,error,,,,,,DDGSException: No results found.,0.075
+ca66e4a72b26,ddgs,error,,,,,,DDGSException: No results found.,0.054
+56c2336a02c5,ddgs,error,,,,,,DDGSException: No results found.,0.05
+b0621180c004,ddgs,error,,,,,,DDGSException: No results found.,0.123
+caca2397d73a,ddgs,error,,,,,,DDGSException: No results found.,0.059
+8b3fbe437a49,ddgs,error,,,,,,DDGSException: No results found.,0.108
+62229ebd37b4,ddgs,error,,,,,,DDGSException: No results found.,0.123
+e9d85135f2df,ddgs,error,,,,,,DDGSException: No results found.,0.074
+0c052ef07a0b,ddgs,error,,,,,,DDGSException: No results found.,0.058
+ee15f1e3c14f,ddgs,error,,,,,,DDGSException: No results found.,0.072
+10ec41b5383f,ddgs,error,,,,,,DDGSException: No results found.,0.074
+13f1ab0ecdf9,ddgs,error,,,,,,DDGSException: No results found.,0.052

@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+76d6c9b3f51b,2026-10-09-r1,2026-10-09,coffee_shops,coffee_shop,Littlefield Patio Cafe Austin phone number,phone,keyword,fresh,austin
+e86e07949ec1,2026-10-09-r1,2026-10-09,coffee_shops,coffee_shop,Longhorn Coffee Co. Austin address,address,keyword,fresh,austin
+65ef96133353,2026-10-09-r1,2026-10-09,coffee_shops,coffee_shop,coffee shop 5 Jacob Obrechtstraat Amsterdam,name,keyword,stable,amsterdam
+ed892c1d7ae5,2026-10-09-r1,2026-10-09,coffee_shops,coffee_shop,Andala Coffee House Cambridge official website,website,keyword,stable,boston
+7357c7bd985a,2026-10-09-r1,2026-10-09,coffee_shops,coffee_shop,What is the street address of the coffee shop Ocean Beach Cafe in San Francisco?,address,natural,stable,san_francisco
+d81aa3a08645,2026-10-09-r1,2026-10-09,coffee_shops,coffee_shop,What is the phone number for Wooly Pig on 3rd Street in San Francisco?,phone,natural,stable,san_francisco
+e790743eaa23,2026-10-09-r1,2026-10-09,coffee_shops,coffee_shop,Which coffee shop is located at 3406 Sansom Street in Philadelphia? Give its name.,name,natural,stable,philadelphia
+260d34b77443,2026-10-09-r1,2026-10-09,grocery_produce,grocery_store,Chef'Store San Francisco phone number,phone,keyword,fresh,san_francisco
+5fa69d497753,2026-10-09-r1,2026-10-09,grocery_produce,grocery_store,Ekodis Amsterdam official website,website,keyword,fresh,amsterdam
+ca66e4a72b26,2026-10-09-r1,2026-10-09,grocery_produce,grocery_store,grocery store 203 Folsom Street San Francisco,name,keyword,stable,san_francisco
+56c2336a02c5,2026-10-09-r1,2026-10-09,grocery_produce,grocery_store,Canyon Market San Francisco address,address,keyword,stable,san_francisco
+b0621180c004,2026-10-09-r1,2026-10-09,grocery_produce,grocery_store,What is the phone number for Foodie's Market on West Broadway in Boston?,phone,natural,stable,boston
+caca2397d73a,2026-10-09-r1,2026-10-09,grocery_produce,grocery_store,What is the street address of the grocery store Langenstein's Grocery in New Orleans?,address,natural,stable,new_orleans
+8b3fbe437a49,2026-10-09-r1,2026-10-09,grocery_produce,grocery_store,"What is the official website of Makkah Market, the grocery store in Philadelphia?",website,natural,stable,philadelphia
+62229ebd37b4,2026-10-09-r1,2026-10-09,bike_trails,bike_route,BicyclePA Route E Philadelphia bike trail length,length,keyword,fresh,philadelphia
+e9d85135f2df,2026-10-09-r1,2026-10-09,bike_trails,bike_route,How long is the Centennial Loop bike trail near Philadelphia?,length,natural,fresh,philadelphia
+0c052ef07a0b,2026-10-09-r1,2026-10-09,bike_trails,bike_route,Pierre Lallement Bike Path Boston bike trail length,length,keyword,stable,boston
+ee15f1e3c14f,2026-10-09-r1,2026-10-09,bike_trails,bike_route,How long is the Melnea Cass Bike Path bike trail near Boston?,length,natural,stable,boston
+10ec41b5383f,2026-10-09-r1,2026-10-09,bike_trails,bike_path,Boston HarborWalk Boston bike trail surface paved gravel,surface,keyword,stable,boston
+13f1ab0ecdf9,2026-10-09-r1,2026-10-09,bike_trails,bike_route,15th Street Bikeway Philadelphia bike trail length,length,keyword,stable,philadelphia

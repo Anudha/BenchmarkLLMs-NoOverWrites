@@ -1,0 +1,8 @@
+dimension,group,n,recall_at_k,mrr_at_k,answer_acc
+overall,all,1,1.0,0.2,
+vertical,coffee_shops,1,1.0,0.2,
+category,coffee_shop,1,1.0,0.2,
+field,address,1,1.0,0.2,
+bucket,fresh,1,1.0,0.2,
+style,keyword,1,1.0,0.2,
+city,austin,1,1.0,0.2,

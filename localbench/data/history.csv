@@ -1,0 +1,7 @@
+run_id,date,evaluated_at,engine,vertical,n,errors,recall_at_k,mrr_at_k,answer_acc
+2026-10-09-r1,2026-10-09,2026-10-09T01:57:01Z,ddgs,all,1,19,1.0,0.2,
+2026-10-09-r1,2026-10-09,2026-10-09T01:57:01Z,ddgs,coffee_shops,1,,1.0,0.2,
+2026-10-09-r1,2026-10-09,2026-10-09T01:57:43Z,nominatim,all,20,0,0.25,0.225,
+2026-10-09-r1,2026-10-09,2026-10-09T01:57:43Z,nominatim,bike_trails,6,,0.1667,0.0833,
+2026-10-09-r1,2026-10-09,2026-10-09T01:57:43Z,nominatim,coffee_shops,7,,0.2857,0.2857,
+2026-10-09-r1,2026-10-09,2026-10-09T01:57:43Z,nominatim,grocery_produce,7,,0.2857,0.2857,
