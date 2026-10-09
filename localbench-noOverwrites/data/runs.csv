@@ -1,3 +1,0 @@
-run_id,date,created_at,n_queries,verticals,cities,sealed,sha256,queries_file,gold_file
-2026-09-30-r1,2026-09-30,2026-09-30T03:24:07Z,190,restaurants;food_drink;lodging;personal_care;health;retail;clothing;services;auto;entertainment;makers;schools,mountain_view;palo_alto;sunnyvale,false,3d147b101c84d0637e5ef5171a72e2e56e56fc57063f9c2720bcba994953edf2,queries/2026-09-30-r1.csv,gold/2026-09-30-r1.csv
-2026-09-30-r2,2026-09-30,2026-09-30T03:27:46Z,209,restaurants;food_drink;lodging;personal_care;health;retail;clothing;services;auto;entertainment;makers;schools,boston,false,6ee1ecadb2381f4b9be70726090f710d888f1802f12bc1b52b5067d3a5e01a39,queries/2026-09-30-r2.csv,gold/2026-09-30-r2.csv
