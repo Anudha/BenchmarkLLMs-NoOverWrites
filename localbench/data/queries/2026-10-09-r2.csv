@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+8bb173ed4ab0,2026-10-09-r2,2026-10-09,coffee_shops,coffee_shop,Akkurat Berlin address,address,keyword,fresh,berlin
+22b14bec1557,2026-10-09-r2,2026-10-09,coffee_shops,coffee_shop,Barista Berlin official website,website,keyword,fresh,berlin
+af9d9889ffef,2026-10-09-r2,2026-10-09,coffee_shops,coffee_shop,coffee shop 601 Vallejo Street San Francisco,name,keyword,stable,san_francisco
+ab88767fbf3b,2026-10-09-r2,2026-10-09,coffee_shops,coffee_shop,Which coffee shop is located at 90 Invalidenstraße in Berlin? Give its name.,name,natural,stable,berlin
+1ebe16647ebb,2026-10-09-r2,2026-10-09,coffee_shops,coffee_shop,Bistro Berlage Amsterdam phone number,phone,keyword,stable,amsterdam
+a29669263899,2026-10-09-r2,2026-10-09,coffee_shops,coffee_shop,What is the street address of the coffee shop Café Tabac in Amsterdam?,address,natural,stable,amsterdam
+c2cf5ced26b0,2026-10-09-r2,2026-10-09,coffee_shops,coffee_shop,What is the phone number for Rococo Chocolates on Motcomb Street in London?,phone,natural,stable,london
+6adbc3739e8f,2026-10-09-r2,2026-10-09,grocery_produce,grocery_store,Chef'Store San Francisco official website,website,keyword,fresh,san_francisco
+60bb893246ea,2026-10-09-r2,2026-10-09,grocery_produce,grocery_store,Ekodis Amsterdam address,address,keyword,fresh,amsterdam
+998d00bc2939,2026-10-09-r2,2026-10-09,grocery_produce,grocery_store,grocery store 118 Reinickendorfer Straße Berlin,name,keyword,stable,berlin
+7add0160cf87,2026-10-09-r2,2026-10-09,grocery_produce,grocery_store,Kraut & Rüben Berlin phone number,phone,keyword,stable,berlin
+ed638adeb8a4,2026-10-09-r2,2026-10-09,grocery_produce,grocery_store,"What is the official website of The Chelsea Grocer, the grocery store in London?",website,natural,stable,london
+243bd6e0122d,2026-10-09-r2,2026-10-09,grocery_produce,grocery_store,Which grocery store is located at 24-26 Goebenstraße in Berlin? Give its name.,name,natural,stable,berlin
+5edd5b3c2527,2026-10-09-r2,2026-10-09,bike_trails,bike_route,Berliner Mauerweg Berlin bike trail operator,operator,keyword,fresh,berlin
+adbd2ff3b0cc,2026-10-09-r2,2026-10-09,bike_trails,bike_path,Gray's Inn Road London bike trail surface paved gravel,surface,keyword,fresh,london
+3138905cabb8,2026-10-09-r2,2026-10-09,bike_trails,bike_path,Los Angeles River Bike Path Los Angeles bike trail length,length,keyword,stable,los_angeles
+da66eb979739,2026-10-09-r2,2026-10-09,bike_trails,bike_route,How long is the Singapore River Promenade bike trail near Singapore?,length,natural,stable,singapore
+60957b482f34,2026-10-09-r2,2026-10-09,bike_trails,bike_path,"Is the Great Highway Extension bike trail near San Francisco paved, gravel, or dirt?",surface,natural,stable,san_francisco
+f3859eefc9cf,2026-10-09-r2,2026-10-09,bike_trails,bike_route,Glendon / Tiverton Los Angeles bike trail length,length,keyword,stable,los_angeles
+354dca42fa80,2026-10-09-r2,2026-10-09,bike_trails,bike_route,Radweg Berlin-Dresden [BE] Berlin bike trail official website,website,keyword,stable,berlin

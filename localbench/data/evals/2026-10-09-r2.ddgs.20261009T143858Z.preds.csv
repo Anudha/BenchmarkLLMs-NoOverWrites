@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+8bb173ed4ab0,ddgs,result,1,https://akkurat.cafe/,AKKURAT Café,We are open! Mon-Fr 8:30-17 Sat-Sun 10-16 Besselstraße 13 — 10969 Berlin — Instagram — Legal An initiative of AKKURAT Studios,,,0.878
+8bb173ed4ab0,ddgs,result,2,https://maps.apple.com/place?place-id=I500D2187FCEBB881,"AKKURAT in Berlin, Germany - Apple Maps","View details about AKKURAT in Berlin, Germany on Apple Maps. Address, driving directions, images, nearby attractions and more.",,,0.878
+8bb173ed4ab0,ddgs,result,3,https://www.akkurat-cafe.de/,AKKURAT Café,"We are a Neighbourhood Cafe serving Specialty Coffee and Brunch on the Corner Besselstr. 13, 10969 Berlin Opening Hours Weekdays 8.30-16.00 Weekends & Holidays 10.00-16.00 Kitchen Daily 10.00-15.00 No reservations. Card payments only. Drink Menu Food Menu We host your Event. Get in touch: hello@akkurat.cafe Follow us on instagram!",,,0.878
+8bb173ed4ab0,ddgs,result,4,https://events.musicofourdesire.com/venue/akkurat-cafe,Akkurat Café Berlin - Specialty Coffee & Brunch | Mood,"Akkurat Café is a contemporary neighborhood specialty coffee shop and brunch spot located on Besselstraße in Berlin. The sleek, minimalist interior pairs locally roasted coffee with a carefully curated menu featuring avocado toast, fresh pastries, and gourmet sandwiches. It provides a bright, welcoming atmosphere for remote work, catch-ups, or relaxed weekend brunching.",,,0.878
+8bb173ed4ab0,ddgs,result,5,https://menuweb.menu/restaurants/berlin/akkurat-cafe,Akkurat Café from Berlin - menuweb.menu,"Akkurat Café ★ 4.4 / 5 (877 reviews) E-Mail Address Get in touch An email has been sent to Akkurat Café Name E-Mail Address Your message Cancel Send Website akkurat.cafe Address Besselstraße 13, 10969 Berlin, Germany Close Map Budget $ VCard Akkurat Café vCard Instagram EditClaim",,,0.878
+22b14bec1557,ddgs,error,,,,,,DDGSException: No results found.,0.332
+af9d9889ffef,ddgs,error,,,,,,DDGSException: No results found.,0.147
+ab88767fbf3b,ddgs,error,,,,,,DDGSException: No results found.,0.125
+1ebe16647ebb,ddgs,error,,,,,,DDGSException: No results found.,0.169
+a29669263899,ddgs,error,,,,,,DDGSException: No results found.,0.13
+c2cf5ced26b0,ddgs,error,,,,,,DDGSException: No results found.,0.126
+6adbc3739e8f,ddgs,error,,,,,,DDGSException: No results found.,0.164
+60bb893246ea,ddgs,error,,,,,,DDGSException: No results found.,0.129
+998d00bc2939,ddgs,error,,,,,,DDGSException: No results found.,0.149
+7add0160cf87,ddgs,error,,,,,,DDGSException: No results found.,0.135
+ed638adeb8a4,ddgs,error,,,,,,DDGSException: No results found.,0.124
+243bd6e0122d,ddgs,error,,,,,,DDGSException: No results found.,0.129
+5edd5b3c2527,ddgs,error,,,,,,DDGSException: No results found.,0.127
+adbd2ff3b0cc,ddgs,error,,,,,,DDGSException: No results found.,0.124
+3138905cabb8,ddgs,error,,,,,,DDGSException: No results found.,0.124
+da66eb979739,ddgs,error,,,,,,DDGSException: No results found.,0.127
+60957b482f34,ddgs,error,,,,,,DDGSException: No results found.,0.128
+f3859eefc9cf,ddgs,error,,,,,,DDGSException: No results found.,0.127
+354dca42fa80,ddgs,error,,,,,,DDGSException: No results found.,0.125
