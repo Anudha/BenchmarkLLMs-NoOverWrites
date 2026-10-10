@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+e834a349e55d,2026-10-10-r1,2026-10-10,coffee_shops,coffee_shop,Abba Coffee Roasters Portland phone number,phone,keyword,fresh,portland
+3a2029d816f0,2026-10-10-r1,2026-10-10,coffee_shops,coffee_shop,Latinto Café Denver address,address,keyword,fresh,denver
+47dfcd53bc29,2026-10-10-r1,2026-10-10,coffee_shops,coffee_shop,coffee shop 3359 26th Street San Francisco,name,keyword,stable,san_francisco
+e02d3f35b4ae,2026-10-10-r1,2026-10-10,coffee_shops,coffee_shop,South of Johnston Melbourne official website,website,keyword,stable,melbourne
+6ffd098b5afe,2026-10-10-r1,2026-10-10,coffee_shops,coffee_shop,Which coffee shop is located at 653 Queensberry Street in Melbourne? Give its name.,name,natural,stable,melbourne
+146d2955a1b5,2026-10-10-r1,2026-10-10,coffee_shops,coffee_shop,What is the street address of the coffee shop Metropole Cafe in Melbourne?,address,natural,stable,melbourne
+435a70f95259,2026-10-10-r1,2026-10-10,coffee_shops,coffee_shop,"What is the official website of The Mill, the coffee shop in San Francisco?",website,natural,stable,san_francisco
+6f4edba662c9,2026-10-10-r1,2026-10-10,grocery_produce,grocery_store,grocery store 1530 Haight Street San Francisco,name,keyword,stable,san_francisco
+aaff6a756216,2026-10-10-r1,2026-10-10,grocery_produce,grocery_store,Pacific Mercantile Company Denver address,address,keyword,stable,denver
+b276f4290671,2026-10-10-r1,2026-10-10,grocery_produce,grocery_store,New Orleans Food Co-op New Orleans official website,website,keyword,stable,new_orleans
+b2cbd0122dad,2026-10-10-r1,2026-10-10,grocery_produce,grocery_store,Organic Wholefoods Melbourne phone number,phone,keyword,stable,melbourne
+599ea663fb26,2026-10-10-r1,2026-10-10,grocery_produce,grocery_store,What is the phone number for Alberta Co-op on Northeast Alberta Street in Portland?,phone,natural,stable,portland
+fa9abee643d5,2026-10-10-r1,2026-10-10,grocery_produce,grocery_store,Which grocery store is located at 1330 Arabella Street in New Orleans? Give its name.,name,natural,stable,new_orleans
+1462d7ace591,2026-10-10-r1,2026-10-10,grocery_produce,grocery_store,"What is the official website of North Melbourne IGA X-press, the grocery store in Melbourne?",website,natural,stable,melbourne
+2d762d37abac,2026-10-10-r1,2026-10-10,bike_trails,bike_route,South Platte River Trail Denver bike trail length,length,keyword,fresh,denver
+351a7175ad95,2026-10-10-r1,2026-10-10,bike_trails,bike_route,How long is the 31st Avenue bike trail near New York?,length,natural,fresh,new_york
+db7d8cb64f14,2026-10-10-r1,2026-10-10,bike_trails,bike_route,North Williams Neighborhood Greenway Portland bike trail length,length,keyword,stable,portland
+99e2e1c95526,2026-10-10-r1,2026-10-10,bike_trails,bike_route,How long is the The Wiggle bike trail near San Francisco?,length,natural,stable,san_francisco
+4a13dfc94c5e,2026-10-10-r1,2026-10-10,bike_trails,bike_route,Terwilliger Trail Portland bike trail official website,website,keyword,stable,portland
+296b43e03e3c,2026-10-10-r1,2026-10-10,bike_trails,bike_path,18th Street Denver bike trail surface paved gravel,surface,keyword,stable,denver

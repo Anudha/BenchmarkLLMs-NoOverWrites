@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+e834a349e55d,ddgs,error,,,,,,DDGSException: No results found.,0.319
+3a2029d816f0,ddgs,result,1,https://www.latintocafe.com/,LaTinto Café,Press • Contact • La Chiva • Instagram 1417 South Broadway Denver CO 80120 +1 303-722-0587 info@LaTintoCafe.com Tues - Sun 8a - 2p,,,0.611
+3a2029d816f0,ddgs,result,2,https://www.latintocafe.com/contact,Contact — LaTinto Café,Press • Contact • La Chiva • Instagram 1417 South Broadway Denver CO 80120 +1 303-722-0587 info@LaTintoCafe.com Tues - Sun 8a - 2p,,,0.611
+3a2029d816f0,ddgs,result,3,https://www.mapquest.com/us/colorado/latinto-cafe-522771858,"LaTinto Cafe, 1417 S Broadway, Denver, CO 80210, US - MapQuest","Get more information for LaTinto Cafe in Denver, CO. See reviews, map, get the address, and find directions.",,,0.611
+3a2029d816f0,ddgs,result,4,https://www.chamberofcommerce.com/business-directory/colorado/denver/cafe/2023471898-latinto-cafe,"LaTinto Café in Denver, CO 80210 - 303-722... - Chamber of Commerce","About LaTinto Café LaTinto Café is located at 1417 S Broadway in Denver, Colorado 80210. LaTinto Café can be contacted via phone at 303-722-0587 for pricing, hours and directions.",,,0.611
+3a2029d816f0,ddgs,result,5,https://www.yelp.com/biz/latinto-cafe-denver,"LaTinto Cafe - Denver, CO","Specialties: Our Colombian style cafe offers the best coffee in Denver, sourced directly from the farmers and roasted in the Colorado Rocky mountains. We have Pandebono - voted best bread in the world in 2025- and many other delicious bake goods as well as traditional Colombian breakfast like Caldo de costilla and many others",,,0.611
+47dfcd53bc29,ddgs,error,,,,,,DDGSException: No results found.,0.043
+e02d3f35b4ae,ddgs,error,,,,,,DDGSException: No results found.,0.028
+6ffd098b5afe,ddgs,error,,,,,,DDGSException: No results found.,0.036
+146d2955a1b5,ddgs,error,,,,,,DDGSException: No results found.,0.043
+435a70f95259,ddgs,error,,,,,,DDGSException: No results found.,0.045
+6f4edba662c9,ddgs,error,,,,,,DDGSException: No results found.,0.028
+aaff6a756216,ddgs,error,,,,,,DDGSException: No results found.,0.037
+b276f4290671,ddgs,error,,,,,,DDGSException: No results found.,0.031
+b2cbd0122dad,ddgs,error,,,,,,DDGSException: No results found.,0.07
+599ea663fb26,ddgs,error,,,,,,DDGSException: No results found.,0.046
+fa9abee643d5,ddgs,error,,,,,,DDGSException: No results found.,0.032
+1462d7ace591,ddgs,error,,,,,,DDGSException: No results found.,0.032
+2d762d37abac,ddgs,error,,,,,,DDGSException: No results found.,0.027
+351a7175ad95,ddgs,error,,,,,,DDGSException: No results found.,0.04
+db7d8cb64f14,ddgs,error,,,,,,DDGSException: No results found.,0.035
+99e2e1c95526,ddgs,error,,,,,,DDGSException: No results found.,0.032
+4a13dfc94c5e,ddgs,error,,,,,,DDGSException: No results found.,0.032
+296b43e03e3c,ddgs,error,,,,,,DDGSException: No results found.,0.045
