@@ -41,7 +41,7 @@ TEMPLATES = {
     ),
     ("business", "name"): (
         "{kind} {housenumber} {street} {city}",
-        "Which {kind} is located at {housenumber} {street} in {city}? Give its name.",
+        "Which {kind} is located at {housenumber} {street} in {city}?",
     ),
     # ---- trails
     ("trail", "length"): (
@@ -62,7 +62,7 @@ TEMPLATES = {
     ),
     ("trail", "name"): (
         "bike trail from {from_} to {to} {city}",
-        "Which bike trail runs from {from_} to {to} near {city}? Give its name.",
+        "Which bike trail runs from {from_} to {to} near {city}?",
     ),
 }
 
@@ -277,7 +277,7 @@ def generate(
             vr = ver.get(_key(e), {})
             field = min(_askable(e, vr, require_verified), key=lambda f: (field_count[f], vrng.random()))
             field_count[field] += 1
-            style = "keyword" if style_count[(field, "keyword")] <= style_count[(field, "natural")] else "natural"
+            style = "natural"
             style_count[(field, style)] += 1
             tmpl = TEMPLATES[(e.kind, field)][0 if style == "keyword" else 1]
             q = tmpl.format(name=e.name, city=e.city, kind=kind_label(e),
