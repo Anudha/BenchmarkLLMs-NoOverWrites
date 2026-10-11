@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+e0cd987c0eea,2026-10-11-r1,2026-10-11,coffee_shops,coffee_shop,Which coffee shop is located at 170 King Street in San Francisco?,name,natural,fresh,san_francisco
+8bcea01af5ed,2026-10-11-r1,2026-10-11,coffee_shops,coffee_shop,What is the street address of the coffee shop Davang Luna in Toronto?,address,natural,fresh,toronto
+90e02f04ff0b,2026-10-11-r1,2026-10-11,coffee_shops,coffee_shop,What is the phone number for Tim Hortons on Sherbourne Street in Toronto?,phone,natural,stable,toronto
+050f031fcae5,2026-10-11-r1,2026-10-11,coffee_shops,coffee_shop,"What is the official website of Propeller Coffee Co., the coffee shop in Toronto?",website,natural,stable,toronto
+c3582273452e,2026-10-11-r1,2026-10-11,coffee_shops,coffee_shop,"What is the official website of Trine's Cafe, the coffee shop in San Jose?",website,natural,stable,san_jose
+fa8571f475cc,2026-10-11-r1,2026-10-11,coffee_shops,coffee_shop,Which coffee shop is located at 901 Sutter Street in San Francisco?,name,natural,stable,san_francisco
+2f02e27556af,2026-10-11-r1,2026-10-11,grocery_produce,grocery_store,Which grocery store is located at 170 South Van Ness Avenue in San Francisco?,name,natural,fresh,san_francisco
+918f74c81c44,2026-10-11-r1,2026-10-11,grocery_produce,grocery_store,What is the street address of the grocery store Bestco in Toronto?,address,natural,fresh,toronto
+b1b9a465d92c,2026-10-11-r1,2026-10-11,grocery_produce,grocery_store,What is the phone number for P.A.T. Central Market on Bloor Street West in Toronto?,phone,natural,stable,toronto
+e3b275888f6a,2026-10-11-r1,2026-10-11,grocery_produce,grocery_store,"What is the official website of Yao Hua Supermarket, the grocery store in Toronto?",website,natural,stable,toronto
+d4cf3a0df90f,2026-10-11-r1,2026-10-11,grocery_produce,grocery_store,Which grocery store is located at 1263 Leavenworth Street in San Francisco?,name,natural,stable,san_francisco
+d5086b7d658f,2026-10-11-r1,2026-10-11,grocery_produce,grocery_store,What is the phone number for Bloor Meat & Grocery on Bloor Street West in Toronto?,phone,natural,stable,toronto
+333460861c0e,2026-10-11-r1,2026-10-11,grocery_produce,produce_market,What is the street address of the produce market Buffalo Whole Food in San Francisco?,address,natural,stable,san_francisco
+584786ce7039,2026-10-11-r1,2026-10-11,bike_trails,bike_path,"Is the Blue Greenway bike trail near San Francisco paved, gravel, or dirt?",surface,natural,fresh,san_francisco
+d5e09bc56bfa,2026-10-11-r1,2026-10-11,bike_trails,bike_path,How long is the Golden Gate Bridge East Sidewalk bike trail near San Francisco?,length,natural,fresh,san_francisco
+8f0cb0ab951c,2026-10-11-r1,2026-10-11,bike_trails,bike_route,How long is the Martin Goodman Trail bike trail near Toronto?,length,natural,stable,toronto
+5ce377418ccc,2026-10-11-r1,2026-10-11,bike_trails,bike_route,How long is the Horner Park bike trail near Chicago?,length,natural,stable,chicago
+053e516ea821,2026-10-11-r1,2026-10-11,bike_trails,bike_route,How long is the Waterfront Trail: Toronto bike trail near Toronto?,length,natural,stable,toronto
+0b226cc00242,2026-10-11-r1,2026-10-11,bike_trails,bike_route,Which organization operates or maintains the Danforth bike trail near Toronto?,operator,natural,stable,toronto
+542ecf345460,2026-10-11-r1,2026-10-11,bike_trails,bike_route,How long is the Adelaide Street bike trail near Toronto?,length,natural,stable,toronto

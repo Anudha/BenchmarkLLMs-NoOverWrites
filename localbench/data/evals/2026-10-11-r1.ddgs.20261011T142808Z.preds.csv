@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+e0cd987c0eea,ddgs,result,1,https://www.yelp.com/biz/bravado-italian-coffee-bar-lounge-san-francisco,"Bravado - Italian Coffee Bar Lounge - San Francisco, CA","Specialties: The best cup of coffee is what we deliver to our customers consistently, as we only serve the best - Italian Coffee Beans. We wanted to bring what we're most passionate about - Italian coffee culture - to San Francisco residents and its visitors, and that's exactly what we do! We love to hear, ""That's the best cup of coffee I ever had!"" or ""This reminds me of when I was in Italy ...",,,0.814
+e0cd987c0eea,ddgs,result,2,https://www.mapquest.com/us/california/bravado-italian-coffee-bar-lounge-361682581,"Bravado - Italian Coffee Bar Lounge, 170 King St, San Francisco, CA ...","Bravado - Italian Coffee Bar Lounge in San Francisco offers a blend of gourmet coffee, beer, and wine in a contemporary setting. The menu features high-quality Italian coffee, a selection of craft beers, and an array of wines, catering to both quick visits and leisurely gatherings. Located near Oracle Park, the lounge serves as a conducive space for business meetings or casual catch-ups ...",,,0.814
+e0cd987c0eea,ddgs,result,3,https://www.tripadvisor.com/Restaurant_Review-g60713-d3562580-Reviews-Bravado_Italian_Coffee_Bar_and_Lounge-San_Francisco_California.html,"BRAVADO ITALIAN COFFEE BAR AND LOUNGE, San Francisco - Tripadvisor","Bravado Italian Coffee Bar and Lounge, San Francisco: See 10 unbiased reviews of Bravado Italian Coffee Bar and Lounge, rated 4.6 of 5 on Tripadvisor and ranked #1,603 of 3,439 restaurants in San Francisco.",,,0.814
+e0cd987c0eea,ddgs,result,4,https://www.mapquest.com/us/california/cafe-bravado-546377748,"Cafe Bravado, 170 King St Ste 109, San Francisco, CA 94107-4914, US ...","Cafe Bravado is a cozy coffee shop in the heart of San Francisco, offering a selection of hot and cold beverages. With a relaxed atmosphere and friendly staff, customers can enjoy a variety of pastries and light snacks while catching up with friends or working on their laptops.",,,0.814
+e0cd987c0eea,ddgs,result,5,https://www.restaurantji.com/ca/san-francisco/bravado-italian-coffee-bar-and-lounge-/,"Bravado, Italian Coffee Bar And Lounge, San Francisco - Restaurantji","Latest reviews, photos and ratings for Bravado, Italian Coffee Bar And Lounge at 170 King St STE 109 in San Francisco - view the menu, hours, phone number, address and map.",,,0.814
+8bcea01af5ed,ddgs,error,,,,,,DDGSException: No results found.,0.07
+90e02f04ff0b,ddgs,error,,,,,,DDGSException: No results found.,0.146
+050f031fcae5,ddgs,error,,,,,,DDGSException: No results found.,0.093
+c3582273452e,ddgs,error,,,,,,DDGSException: No results found.,0.081
+fa8571f475cc,ddgs,error,,,,,,DDGSException: No results found.,0.087
+2f02e27556af,ddgs,error,,,,,,DDGSException: No results found.,0.088
+918f74c81c44,ddgs,error,,,,,,DDGSException: No results found.,0.074
+b1b9a465d92c,ddgs,error,,,,,,DDGSException: No results found.,0.061
+e3b275888f6a,ddgs,error,,,,,,DDGSException: No results found.,0.087
+d4cf3a0df90f,ddgs,error,,,,,,DDGSException: No results found.,0.083
+d5086b7d658f,ddgs,error,,,,,,DDGSException: No results found.,0.074
+333460861c0e,ddgs,error,,,,,,DDGSException: No results found.,0.061
+584786ce7039,ddgs,error,,,,,,DDGSException: No results found.,0.081
+d5e09bc56bfa,ddgs,error,,,,,,DDGSException: No results found.,0.073
+8f0cb0ab951c,ddgs,error,,,,,,DDGSException: No results found.,0.057
+5ce377418ccc,ddgs,error,,,,,,DDGSException: No results found.,0.101
+053e516ea821,ddgs,error,,,,,,DDGSException: No results found.,0.088
+0b226cc00242,ddgs,error,,,,,,DDGSException: No results found.,0.181
+542ecf345460,ddgs,error,,,,,,DDGSException: No results found.,0.079
