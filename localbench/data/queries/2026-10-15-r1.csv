@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+be39f0fd2290,2026-10-15-r1,2026-10-15,coffee_shops,coffee_shop,What is the street address of the coffee shop Melly's Cookiebar in Amsterdam?,address,natural,fresh,amsterdam
+0531c97a4323,2026-10-15-r1,2026-10-15,coffee_shops,coffee_shop,Which coffee shop is located at 11 Bow Street in Somerville?,name,natural,fresh,boston
+7deb1d6b464a,2026-10-15-r1,2026-10-15,coffee_shops,coffee_shop,"What is the official website of Madman Espresso, the coffee shop in New York?",website,natural,stable,new_york
+65ed194b3ae9,2026-10-15-r1,2026-10-15,coffee_shops,coffee_shop,What is the phone number for Ange Noir Cafe on Varet Street in New York?,phone,natural,stable,new_york
+508db1bec6df,2026-10-15-r1,2026-10-15,coffee_shops,coffee_shop,What is the street address of the coffee shop Little Sparrow in Sydney?,address,natural,stable,sydney
+8d26a9008303,2026-10-15-r1,2026-10-15,coffee_shops,coffee_shop,Which coffee shop is located at 57 Traveler Street in Boston?,name,natural,stable,boston
+bae2244465a1,2026-10-15-r1,2026-10-15,grocery_produce,grocery_store,"What is the official website of Ekodis, the grocery store in Amsterdam?",website,natural,fresh,amsterdam
+7d98a30e1553,2026-10-15-r1,2026-10-15,grocery_produce,grocery_store,What is the phone number for Supamart on Dalgal Way in Sydney?,phone,natural,fresh,sydney
+0aba3fc96575,2026-10-15-r1,2026-10-15,grocery_produce,grocery_store,What is the street address of the grocery store Superfresh in Sunnyside?,address,natural,stable,new_york
+1fbda191c7ce,2026-10-15-r1,2026-10-15,grocery_produce,grocery_store,Which grocery store is located at 537-539 Kent Street in Sydney?,name,natural,stable,sydney
+23b1e2847ac2,2026-10-15-r1,2026-10-15,grocery_produce,produce_market,"What is the official website of Precycle, the produce market in New York?",website,natural,stable,new_york
+bde3e7e80f3e,2026-10-15-r1,2026-10-15,grocery_produce,grocery_store,What is the street address of the grocery store Citarella in New York?,address,natural,stable,new_york
+caeee127d612,2026-10-15-r1,2026-10-15,grocery_produce,grocery_store,What is the phone number for African Food and Market Plus on South Bascom Avenue in San Jose?,phone,natural,stable,san_jose
+1e04091ed1b6,2026-10-15-r1,2026-10-15,bike_trails,bike_route,How long is the Highway 101 Corridor bike trail near San Jose?,length,natural,fresh,san_jose
+7e7a354308f9,2026-10-15-r1,2026-10-15,bike_trails,bike_path,"Is the Wibautstraat bike trail near Amsterdam paved, gravel, or dirt?",surface,natural,fresh,amsterdam
+7ddd3abf3ac7,2026-10-15-r1,2026-10-15,bike_trails,bike_route,Which organization operates or maintains the Burton & Glenmore bike trail near Sydney?,operator,natural,stable,sydney
+979412d4032c,2026-10-15-r1,2026-10-15,bike_trails,bike_route,Which organization operates or maintains the Maroubra - UNSW / Randwick - Green Square - Newtown - Burwood / Gladesville (proposed) bike trail near Sydney?,operator,natural,stable,sydney
+8a54e46ef9be,2026-10-15-r1,2026-10-15,bike_trails,bike_path,How long is the Meeuwenlaan bike trail near Amsterdam?,length,natural,stable,amsterdam
+e2b2fde95046,2026-10-15-r1,2026-10-15,bike_trails,bike_route,How long is the Palisade Avenue bike trail near New York?,length,natural,stable,new_york
+d665c87a91b9,2026-10-15-r1,2026-10-15,bike_trails,bike_route,Which bike trail runs from Roebling Street to Morgan Avenue near New York?,name,natural,stable,new_york

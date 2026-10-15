@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+be39f0fd2290,ddgs,result,1,https://mellyscookiebar.nl/visit,Visit Melly's Cookiebar in Amsterdam | Near Dam Square,"Find Melly's Cookiebar at Nieuwezijds Voorburgwal 137, open daily 8:30 to 19:00. Fresh cookies, alfajores and coffee in the heart of Amsterdam, near Dam Square.",,,0.884
+be39f0fd2290,ddgs,result,2,https://www.yelp.com/biz/mellys-cookie-bar-amsterdam,MELLY'S COOKIE BAR - Updated May 2026 - 77 Photos & 41 Reviews ... - Yelp,Location & Hours Suggest an edit Nieuwezijds Voorburgwal 137 1012 RJ Amsterdam The Netherlands Centrum Get directions,,,0.884
+be39f0fd2290,ddgs,result,3,https://maps.apple.com/place?place-id=ID55C97A49BF48C89,"Melly's Cookie Bar in Amsterdam, Netherlands - Apple Maps","View details about Melly's Cookie Bar in Amsterdam, Netherlands on Apple Maps. Address, driving directions, images, nearby attractions and more.",,,0.884
+be39f0fd2290,ddgs,result,4,https://www.tripadvisor.com/Restaurant_Review-g188590-d3395787-Reviews-Melly_s_Cookie_Bar-Amsterdam_North_Holland_Province.html,"MELLY'S COOKIE BAR, Amsterdam - Centrum - Tripadvisor","Melly's Cookie Bar, Amsterdam: See 791 unbiased reviews of Melly's Cookie Bar, rated 4.6 of 5 on Tripadvisor and ranked #121 of 4,316 restaurants in Amsterdam.",,,0.884
+be39f0fd2290,ddgs,result,5,https://mellysstroopwafels.nl/visit,"Stroopwafel Shop near Dam Square, Amsterdam | Melly's","Melly's stroopwafel shop at Nieuwezijds Voorburgwal 141, open daily 9:00 to 19:00, Friday and Saturday until 21:00. Stroopwafels pressed warm on the iron all day, two minutes from Dam Square.",,,0.884
+0531c97a4323,ddgs,error,,,,,,DDGSException: No results found.,0.16
+7deb1d6b464a,ddgs,error,,,,,,DDGSException: No results found.,0.216
+65ed194b3ae9,ddgs,error,,,,,,DDGSException: No results found.,0.071
+508db1bec6df,ddgs,error,,,,,,DDGSException: No results found.,0.078
+8d26a9008303,ddgs,error,,,,,,DDGSException: No results found.,0.085
+bae2244465a1,ddgs,error,,,,,,DDGSException: No results found.,0.049
+7d98a30e1553,ddgs,error,,,,,,DDGSException: No results found.,0.164
+0aba3fc96575,ddgs,error,,,,,,DDGSException: No results found.,0.074
+1fbda191c7ce,ddgs,error,,,,,,DDGSException: No results found.,0.089
+23b1e2847ac2,ddgs,error,,,,,,DDGSException: No results found.,0.066
+bde3e7e80f3e,ddgs,error,,,,,,DDGSException: No results found.,0.057
+caeee127d612,ddgs,error,,,,,,DDGSException: No results found.,0.056
+1e04091ed1b6,ddgs,error,,,,,,DDGSException: No results found.,0.06
+7e7a354308f9,ddgs,error,,,,,,DDGSException: No results found.,0.053
+7ddd3abf3ac7,ddgs,error,,,,,,DDGSException: No results found.,0.051
+979412d4032c,ddgs,error,,,,,,DDGSException: No results found.,0.079
+8a54e46ef9be,ddgs,error,,,,,,DDGSException: No results found.,0.051
+e2b2fde95046,ddgs,error,,,,,,DDGSException: No results found.,0.059
+d665c87a91b9,ddgs,error,,,,,,DDGSException: No results found.,0.052
