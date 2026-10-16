@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+1c07870cbe25,2026-10-16-r1,2026-10-16,coffee_shops,coffee_shop,Which coffee shop is located at 84-86 Great Eastern Street in London?,name,natural,fresh,london
+56f931e508bc,2026-10-16-r1,2026-10-16,coffee_shops,coffee_shop,What is the street address of the coffee shop Roastery Club in London?,address,natural,fresh,london
+d11df70c3fa6,2026-10-16-r1,2026-10-16,coffee_shops,coffee_shop,What is the phone number for Oakberry Acai on Sunset Boulevard in Los Angeles?,phone,natural,stable,los_angeles
+b68a89626d6d,2026-10-16-r1,2026-10-16,coffee_shops,coffee_shop,"What is the official website of Alfred, the coffee shop in Los Angeles?",website,natural,stable,los_angeles
+802c3b924de8,2026-10-16-r1,2026-10-16,coffee_shops,coffee_shop,"What is the official website of Cafe Zing, the coffee shop in Cambridge?",website,natural,stable,boston
+fcf6704eaf5a,2026-10-16-r1,2026-10-16,coffee_shops,coffee_shop,Which coffee shop is located at 7 Horse Guards Avenue in London?,name,natural,stable,london
+0b14ec01ed86,2026-10-16-r1,2026-10-16,grocery_produce,grocery_store,What is the phone number for La Grande Épicerie de Paris on Rue de Sèvres in Paris?,phone,natural,fresh,paris
+893d84523da0,2026-10-16-r1,2026-10-16,grocery_produce,farm_stand,What is the street address of the farm stand Greenfields in London?,address,natural,stable,london
+e79145a5453a,2026-10-16-r1,2026-10-16,grocery_produce,grocery_store,"What is the official website of The Grocery, the grocery store in London?",website,natural,stable,london
+027537aea8f3,2026-10-16-r1,2026-10-16,grocery_produce,grocery_store,Which grocery store is located at 1841 North Western Avenue in Los Angeles?,name,natural,stable,los_angeles
+ed3ab33dd61c,2026-10-16-r1,2026-10-16,grocery_produce,grocery_store,What is the street address of the grocery store Big Saver Foods in Los Angeles?,address,natural,stable,los_angeles
+e9b8669137fc,2026-10-16-r1,2026-10-16,grocery_produce,grocery_store,Which grocery store is located at 9-10 Circus Road West in London?,name,natural,stable,london
+b16f0d5e673e,2026-10-16-r1,2026-10-16,grocery_produce,grocery_store,What is the phone number for Galleria Market on West Olympic Boulevard in Los Angeles?,phone,natural,stable,los_angeles
+8fee1ea645a4,2026-10-16-r1,2026-10-16,bike_trails,bike_path,How long is the Avenue de Verdun bike trail near Paris?,length,natural,fresh,paris
+0af9208e2c32,2026-10-16-r1,2026-10-16,bike_trails,bike_route,Which bike trail runs from Poissy to Pontault-Combault near Paris?,name,natural,fresh,paris
+da9f212f2f4c,2026-10-16-r1,2026-10-16,bike_trails,bike_route,How long is the Sanderson Gulch Trail bike trail near Denver?,length,natural,stable,denver
+f8319e167107,2026-10-16-r1,2026-10-16,bike_trails,bike_path,"Is the Somerville Avenue bike trail near Boston paved, gravel, or dirt?",surface,natural,stable,boston
+0b9aef87544a,2026-10-16-r1,2026-10-16,bike_trails,bike_route,How long is the Los Angeles River Greenway bike trail near Los Angeles?,length,natural,stable,los_angeles
+8ee8387354c3,2026-10-16-r1,2026-10-16,bike_trails,bike_route,Which organization operates or maintains the Cycleway 3 bike trail near London?,operator,natural,stable,london
+83b989068bc8,2026-10-16-r1,2026-10-16,bike_trails,bike_route,How long is the Réseau Express Vélo Rive Droite bike trail near Paris?,length,natural,stable,paris
