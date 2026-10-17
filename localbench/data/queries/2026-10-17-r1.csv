@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+36e6cee62c3e,2026-10-17-r1,2026-10-17,coffee_shops,coffee_shop,"What is the official website of Abba Coffee Roasters, the coffee shop in Portland?",website,natural,fresh,portland
+f522c0f1b59e,2026-10-17-r1,2026-10-17,coffee_shops,coffee_shop,Which coffee shop is located at 1668 Northwest 23rd Avenue in Portland?,name,natural,fresh,portland
+28e26b93d7b6,2026-10-17-r1,2026-10-17,coffee_shops,coffee_shop,What is the street address of the coffee shop Camino in Berlin?,address,natural,stable,berlin
+0df08c3d4996,2026-10-17-r1,2026-10-17,coffee_shops,coffee_shop,What is the phone number for Asmen Feinkost on Danziger Straße in Berlin?,phone,natural,stable,berlin
+55732cd23bc2,2026-10-17-r1,2026-10-17,coffee_shops,coffee_shop,What is the phone number for Beacon Hill Books & Cafe on Charles Street in Boston?,phone,natural,stable,boston
+e8fd1ee2aaca,2026-10-17-r1,2026-10-17,coffee_shops,coffee_shop,What is the street address of the coffee shop XO Bisous in Toronto?,address,natural,stable,toronto
+0ca60d2d55d5,2026-10-17-r1,2026-10-17,coffee_shops,coffee_shop,"What is the official website of Tadshikische Teestube, the coffee shop in Berlin?",website,natural,stable,berlin
+b7f10252e14c,2026-10-17-r1,2026-10-17,grocery_produce,grocery_store,"What is the official website of People's Food Co-op, the grocery store in Portland?",website,natural,fresh,portland
+2ce01a21e84c,2026-10-17-r1,2026-10-17,grocery_produce,grocery_store,What is the phone number for Bestco on Peter Street in Toronto?,phone,natural,fresh,toronto
+eaf1ee48e34f,2026-10-17-r1,2026-10-17,grocery_produce,grocery_store,What is the street address of the grocery store World Foods in Portland?,address,natural,stable,portland
+7d753a571fc5,2026-10-17-r1,2026-10-17,grocery_produce,produce_market,Which produce market is located at 564 Queen Street West in Toronto?,name,natural,stable,toronto
+314c8adc03db,2026-10-17-r1,2026-10-17,grocery_produce,produce_market,What is the street address of the produce market Smart Deli in Berlin?,address,natural,stable,berlin
+7a4db7759e62,2026-10-17-r1,2026-10-17,grocery_produce,grocery_store,Which grocery store is located at 1733 Spruce Street in Philadelphia?,name,natural,stable,philadelphia
+dc07e937c420,2026-10-17-r1,2026-10-17,grocery_produce,grocery_store,What is the phone number for Citymarket on Bloor Street West in Toronto?,phone,natural,stable,toronto
+a9fc61d52541,2026-10-17-r1,2026-10-17,bike_trails,bike_route,How long is the Claire Saltonstall Bikeway bike trail near Boston?,length,natural,fresh,boston
+08924592522c,2026-10-17-r1,2026-10-17,bike_trails,bike_route,Which bike trail runs from Inman Square to BU Bridge near Boston?,name,natural,fresh,boston
+90b26d3ca868,2026-10-17-r1,2026-10-17,bike_trails,bike_path,"Is the Lower Don Recreational Trail bike trail near Toronto paved, gravel, or dirt?",surface,natural,stable,toronto
+0a64bb4a6541,2026-10-17-r1,2026-10-17,bike_trails,bike_route,How long is the East Boston Greenway bike trail near Boston?,length,natural,stable,boston
+df1da0e51e1f,2026-10-17-r1,2026-10-17,bike_trails,bike_route,How long is the Richmond Street bike trail near Toronto?,length,natural,stable,toronto
+e5ab28855ef2,2026-10-17-r1,2026-10-17,bike_trails,bike_route,How long is the Denison-Bellevue bike trail near Toronto?,length,natural,stable,toronto

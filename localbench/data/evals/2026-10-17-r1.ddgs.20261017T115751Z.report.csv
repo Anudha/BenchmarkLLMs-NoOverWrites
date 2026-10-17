@@ -1,0 +1,13 @@
+dimension,group,n,recall_at_k,mrr_at_k,answer_acc
+overall,all,2,1.0,0.625,
+vertical,bike_trails,1,1.0,0.25,
+vertical,coffee_shops,1,1.0,1.0,
+category,bike_route,1,1.0,0.25,
+category,coffee_shop,1,1.0,1.0,
+field,length,1,1.0,0.25,
+field,website,1,1.0,1.0,
+bucket,fresh,1,1.0,1.0,
+bucket,stable,1,1.0,0.25,
+style,natural,2,1.0,0.625,
+city,portland,1,1.0,1.0,
+city,toronto,1,1.0,0.25,

@@ -1,0 +1,29 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+36e6cee62c3e,ddgs,result,1,https://www.abbacoffeeroasters.com/shop,SHOP - Abba Coffee Roasters,"Shop whole coffee beans roasted in Portland, Oregon. Sourced intentionally from different regions around the world.",,,0.963
+36e6cee62c3e,ddgs,result,2,http://www.abba.coffee/,www.abba.coffee,www.abba.coffee,,,0.963
+36e6cee62c3e,ddgs,result,3,https://tripguideusa.com/foods/categories/coffee-shop/portland/abba-coffee-roasters-j6h083,"Abba Coffee Roasters - Portland Foods | Address, Phone, Website ...","Abba Coffee Roasters in Portland, Oregon. Address: 525 NW 11th Ave, Portland, OR 97209, United States. Phone: +1 503-985-2531. Website: http://abbacoffeeroasters.com ...",,,0.963
+36e6cee62c3e,ddgs,result,4,https://www.facebook.com/abbacoffeeroasters/,Abba Coffee Roasters | Portland OR - Facebook,"New to Abba Coffee! 🇵🇪☕️ We're thrilled to share this stunning natural process Catiguá from Finca Santa Estela in Peru, notes of apricot, cocoa, hazelnut, and caramel. Every cup starts a long way from Portland, with the farmers who grow it, and ends here on our bar. Thank you for being part of that journey with us. Grab a bag online or in our Portland cafe. Link in bio!",,,0.963
+36e6cee62c3e,ddgs,result,5,https://pdx.eater.com/venue/112336/abba-coffee-roasters,Abba Coffee Roasters - Eater Portland,"For lattes beyond the usual vanilla and caramel suspects, head to Abba Coffee Roasters, a cafe in the Pearl District. Alongside a line-up of espresso, cold brew, drip coffee, and more classic choices, Abba also serves a black sesame latte (hot or iced), an iced sea salt cream latte, and even an indulgent Nutella latte.",,,0.963
+f522c0f1b59e,ddgs,error,,,,,,DDGSException: No results found.,0.055
+28e26b93d7b6,ddgs,error,,,,,,DDGSException: No results found.,0.06
+0df08c3d4996,ddgs,error,,,,,,DDGSException: No results found.,0.037
+55732cd23bc2,ddgs,error,,,,,,DDGSException: No results found.,0.039
+e8fd1ee2aaca,ddgs,error,,,,,,DDGSException: No results found.,0.098
+0ca60d2d55d5,ddgs,error,,,,,,DDGSException: No results found.,0.052
+b7f10252e14c,ddgs,error,,,,,,DDGSException: No results found.,0.034
+2ce01a21e84c,ddgs,error,,,,,,DDGSException: No results found.,0.087
+eaf1ee48e34f,ddgs,error,,,,,,DDGSException: No results found.,0.035
+7d753a571fc5,ddgs,error,,,,,,DDGSException: No results found.,0.076
+314c8adc03db,ddgs,error,,,,,,DDGSException: No results found.,0.036
+7a4db7759e62,ddgs,error,,,,,,DDGSException: No results found.,0.061
+dc07e937c420,ddgs,error,,,,,,DDGSException: No results found.,0.063
+a9fc61d52541,ddgs,error,,,,,,DDGSException: No results found.,0.036
+08924592522c,ddgs,error,,,,,,DDGSException: No results found.,0.046
+90b26d3ca868,ddgs,error,,,,,,DDGSException: No results found.,0.032
+0a64bb4a6541,ddgs,error,,,,,,DDGSException: No results found.,0.037
+df1da0e51e1f,ddgs,result,1,https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/cycling-network-map/,Cycling Network Map - City of Toronto,"The 2026 Toronto Cycling Map shows on and off-street bikeways, Bike Share station locations, suggested routes and connections to work, school, shopping or to explore the city.",,,0.834
+df1da0e51e1f,ddgs,result,2,https://www.toronto.ca/services-payments/streets-parking-transportation/cycling-in-toronto/cycling-infrastructure-definitions/rich-adel/,"Richmond-Adelaide Cycle Track Study, Including Peter & Simcoe Streets","The Richmond Street, Adelaide Street, Peter Street, and Simcoe Street bikeways were installed as a pilot project between 2014 and 2016. After installation, the cycle tracks on Richmond Street and Adelaide Street have become the highest volume bikeways in Toronto, with over 6,000 daily cycle trips. On January 30, 2019 the cycle tracks were made permanent by City Council (IE1.5). In 2023, the ...",,,0.834
+df1da0e51e1f,ddgs,result,3,https://torontobiking.ca/map.html,Trail Map - All Toronto Cycling Trails | Toronto Biking,"Interactive map of all Toronto cycling trails. Filter by difficulty, find Bike Share stations, and explore every route in the city.",,,0.834
+df1da0e51e1f,ddgs,result,4,https://www.youtube.com/watch?v=5guEvvpZrKY,Richmond Street bike lanes - Full Route - YouTube,A ride from Parliament Street to Niagara Street on the Richmond Street bicycle lanes in Toronto. Main article: https://ontariotrafficman.wordpress.c... The 3.8 km trip took 14 minutes at a ...,,,0.834
+df1da0e51e1f,ddgs,result,5,https://www.cycleto.ca/torontocyclingnetwork,Toronto Cycling Network - Cycle Toronto,"The 2024 Toronto Cycling Map shows on and off-street bikeways, Bike Share station locations, suggested routes and connections to work, school, shopping or to explore the city.",,,0.834
+e5ab28855ef2,ddgs,error,,,,,,DDGSException: No results found.,0.033
