@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+9e05700613b8,2026-10-19-r1,2026-10-19,coffee_shops,coffee_shop,"What is the official website of Welton Street Cafe, the coffee shop in Denver?",website,natural,fresh,denver
+05cc29a906d2,2026-10-19-r1,2026-10-19,coffee_shops,coffee_shop,What is the street address of the coffee shop Sapp Coffee Shop in Los Angeles?,address,natural,fresh,los_angeles
+70335b8e5679,2026-10-19-r1,2026-10-19,coffee_shops,coffee_shop,Which coffee shop is located at 25 Boulevard Poissonnière in Paris?,name,natural,stable,paris
+c1a47e6b4255,2026-10-19-r1,2026-10-19,coffee_shops,coffee_shop,What is the phone number for sandcouch cafe on West 7th Street in Los Angeles?,phone,natural,stable,los_angeles
+6a74cb47573d,2026-10-19-r1,2026-10-19,coffee_shops,coffee_shop,Which coffee shop is located at 2246 Larimer Street in Denver?,name,natural,stable,denver
+835132fae7b4,2026-10-19-r1,2026-10-19,coffee_shops,coffee_shop,"What is the official website of Persimmon Coffee, the coffee shop in Philadelphia?",website,natural,stable,philadelphia
+4e129cccd800,2026-10-19-r1,2026-10-19,coffee_shops,coffee_shop,What is the phone number for Le Loir dans la Théière on Rue des Rosiers in Paris?,phone,natural,stable,paris
+55e63b526a5a,2026-10-19-r1,2026-10-19,grocery_produce,grocery_store,"What is the official website of Great Wall Supermarket, the grocery store in Denver?",website,natural,fresh,denver
+5b622c9577ed,2026-10-19-r1,2026-10-19,grocery_produce,grocery_store,What is the phone number for New Saigon Supermarket on South Federal Boulevard in Denver?,phone,natural,fresh,denver
+cfc5c38f8eee,2026-10-19-r1,2026-10-19,grocery_produce,grocery_store,Which grocery store is located at 1733 Spruce Street in Philadelphia?,name,natural,stable,philadelphia
+c6198f9cfb73,2026-10-19-r1,2026-10-19,grocery_produce,produce_market,What is the street address of the produce market Di Bruno Bros. in Philadelphia?,address,natural,stable,philadelphia
+2143529e4f1a,2026-10-19-r1,2026-10-19,grocery_produce,grocery_store,What is the street address of the grocery store Coreana Supermarket in Dublin?,address,natural,stable,dublin
+5d1e774dda71,2026-10-19-r1,2026-10-19,grocery_produce,grocery_store,What is the phone number for Big Saver Foods on N Broadway in Los Angeles?,phone,natural,stable,los_angeles
+168f9237fa71,2026-10-19-r1,2026-10-19,bike_trails,bike_route,How long is the Denver D6 bike trail near Denver?,length,natural,fresh,denver
+65ca498fd6ed,2026-10-19-r1,2026-10-19,bike_trails,bike_route,How long is the Brighton Boulevard Cycle Track bike trail near Denver?,length,natural,fresh,denver
+347d904349f6,2026-10-19-r1,2026-10-19,bike_trails,bike_route,Which bike trail runs from Montlake to Redmond near Seattle?,name,natural,stable,seattle
+9322483f7c11,2026-10-19-r1,2026-10-19,bike_trails,bike_route,How long is the Denver D4 bike trail near Denver?,length,natural,stable,denver
+65adcb6648c5,2026-10-19-r1,2026-10-19,bike_trails,bike_route,How long is the North Seattle Greenway bike trail near Seattle?,length,natural,stable,seattle
+544a4014d4eb,2026-10-19-r1,2026-10-19,bike_trails,bike_route,How long is the Columbia Street Greenway bike trail near Seattle?,length,natural,stable,seattle
+2bf03edffc3a,2026-10-19-r1,2026-10-19,bike_trails,bike_route,How long is the Boxers' Trail bike trail near Philadelphia?,length,natural,stable,philadelphia

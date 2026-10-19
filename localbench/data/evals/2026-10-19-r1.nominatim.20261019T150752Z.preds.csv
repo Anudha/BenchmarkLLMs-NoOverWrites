@@ -1,0 +1,13 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+168f9237fa71,nominatim,result,1,https://www.openstreetmap.org/way/433914699,"Denver Pavilions, 500, Denver, Colorado, 80202, United States","Denver Pavilions. 500 , Denver. Phone: +1-303-260-6001. Website: https://denverpavilions.com/",,,1.059
+168f9237fa71,nominatim,result,2,https://www.openstreetmap.org/way/542850076,"Denver Water Happy Canyon Facility, Denver, Colorado, United States",Denver Water Happy Canyon Facility. Denver,,,1.059
+168f9237fa71,nominatim,result,3,https://www.openstreetmap.org/way/1041298895,"Avion at Denver Connection, Denver, Colorado, United States",Avion at Denver Connection. Denver,,,1.059
+168f9237fa71,nominatim,result,4,https://www.openstreetmap.org/way/339455286,"Denver Solid Waste Transfer Station, 7301, Denver, Colorado, 80231, United States","Denver Solid Waste Transfer Station. 7301 , Denver",,,1.059
+168f9237fa71,nominatim,result,5,https://www.openstreetmap.org/way/560229912,"Bell Denver Tech Center, Denver, Colorado, United States",Bell Denver Tech Center. Denver,,,1.059
+9322483f7c11,nominatim,result,1,https://www.openstreetmap.org/way/433914699,"Denver Pavilions, 500, Denver, Colorado, 80202, United States","Denver Pavilions. 500 , Denver. Phone: +1-303-260-6001. Website: https://denverpavilions.com/",,,1.074
+9322483f7c11,nominatim,result,2,https://www.openstreetmap.org/way/542850076,"Denver Water Happy Canyon Facility, Denver, Colorado, United States",Denver Water Happy Canyon Facility. Denver,,,1.074
+9322483f7c11,nominatim,result,3,https://www.openstreetmap.org/way/810608785,"Denver Connection at Avion, Denver, Colorado, United States",Denver Connection at Avion. Denver,,,1.074
+9322483f7c11,nominatim,result,4,https://www.openstreetmap.org/way/1041298895,"Avion at Denver Connection, Denver, Colorado, United States",Avion at Denver Connection. Denver,,,1.074
+9322483f7c11,nominatim,result,5,https://www.openstreetmap.org/way/992669531,"Denver Pavilions, Denver, Colorado, United States",Denver Pavilions. Denver,,,1.074
+2bf03edffc3a,nominatim,result,1,https://www.openstreetmap.org/way/377438381,"Boxers' Trail, North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19121, United States","Boxers' Trail. Boxers' Trail, Philadelphia. Surface: asphalt",,,0.538
+2bf03edffc3a,nominatim,result,2,https://www.openstreetmap.org/way/995916075,"Boxers' Trail, North Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19129, United States","Boxers' Trail. Boxers' Trail, Philadelphia. Surface: asphalt",,,0.538

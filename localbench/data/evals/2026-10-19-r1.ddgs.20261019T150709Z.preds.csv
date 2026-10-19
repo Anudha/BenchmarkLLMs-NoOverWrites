@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+9e05700613b8,ddgs,result,1,https://weltonstreetcafe.com/,"Welton Street Cafe in Denver, Colorado","Welton Street Cafe historic, family-owned soul food staple in the Denver community serving up food like crispy fried chicken and smothered porkchops.",,,0.822
+9e05700613b8,ddgs,result,2,https://weltonstreetcafe.com/contact-&-hours,Contact & Hours - Welton Street Cafe,Contact Welton Street Cafe for delicious soul food in Denver! Reach us at (303) 296-6602 or via email at weltonstcafe@gmail.com.,,,0.822
+9e05700613b8,ddgs,result,3,https://www.allbiz.com/business/welton-st-cafe-home-of-monas-303-296-6602,Welton Street Cafe | (303) 296-6602 | Denver - AllBiz,"You can contact Welton Street Cafe by phone using number (303) 296-6602. Welton Street Cafe is located at 2736 Welton St, Denver, CO 80205.",,,0.822
+9e05700613b8,ddgs,result,4,https://denver.eater.com/venue/115608/welton-street-cafe,Welton Street Cafe | Eater Denver,"Food news and dining guides for Denver, Colorado.",,,0.822
+9e05700613b8,ddgs,result,5,https://weltonstreetcafe.com/lunch-&-dinner-menu,Welton Street Cafe,"Explore our lunch dinner menu at Welton Street Cafe, a Denver restaurant offering soul food with online ordering available.",,,0.822
+05cc29a906d2,ddgs,error,,,,,,DDGSException: No results found.,0.128
+70335b8e5679,ddgs,error,,,,,,DDGSException: No results found.,0.151
+c1a47e6b4255,ddgs,error,,,,,,DDGSException: No results found.,0.151
+6a74cb47573d,ddgs,error,,,,,,DDGSException: No results found.,0.17
+835132fae7b4,ddgs,error,,,,,,DDGSException: No results found.,0.127
+4e129cccd800,ddgs,error,,,,,,DDGSException: No results found.,0.134
+55e63b526a5a,ddgs,error,,,,,,DDGSException: No results found.,0.13
+5b622c9577ed,ddgs,error,,,,,,DDGSException: No results found.,0.171
+cfc5c38f8eee,ddgs,error,,,,,,DDGSException: No results found.,0.141
+c6198f9cfb73,ddgs,error,,,,,,DDGSException: No results found.,0.158
+2143529e4f1a,ddgs,error,,,,,,DDGSException: No results found.,0.126
+5d1e774dda71,ddgs,error,,,,,,DDGSException: No results found.,0.127
+168f9237fa71,ddgs,error,,,,,,DDGSException: No results found.,0.124
+65ca498fd6ed,ddgs,error,,,,,,DDGSException: No results found.,0.154
+347d904349f6,ddgs,error,,,,,,DDGSException: No results found.,0.154
+9322483f7c11,ddgs,error,,,,,,DDGSException: No results found.,0.145
+65adcb6648c5,ddgs,error,,,,,,DDGSException: No results found.,0.159
+544a4014d4eb,ddgs,error,,,,,,DDGSException: No results found.,0.129
+2bf03edffc3a,ddgs,error,,,,,,DDGSException: No results found.,0.132

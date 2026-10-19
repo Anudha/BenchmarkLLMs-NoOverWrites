@@ -20,3 +20,6 @@ run_id,date,vertical,n_queries,n_fresh,pool_stable,pool_fresh,fields,cities
 2026-10-17-r1,2026-10-17,coffee_shops,7,2,789,21,address:2;name:1;phone:2;website:2,toronto;philadelphia;berlin;boston;singapore;portland
 2026-10-17-r1,2026-10-17,grocery_produce,7,2,107,2,address:2;name:2;phone:2;website:1,toronto;philadelphia;berlin;boston;singapore;portland
 2026-10-17-r1,2026-10-17,bike_trails,6,2,78,18,length:4;name:1;surface:1,toronto;philadelphia;berlin;boston;singapore;portland
+2026-10-19-r1,2026-10-19,coffee_shops,7,2,582,51,address:1;name:2;phone:2;website:2,los_angeles;dublin;denver;paris;seattle;philadelphia
+2026-10-19-r1,2026-10-19,grocery_produce,6,2,88,2,address:2;name:1;phone:2;website:1,los_angeles;dublin;denver;paris;seattle;philadelphia
+2026-10-19-r1,2026-10-19,bike_trails,7,2,133,19,length:6;name:1,los_angeles;dublin;denver;paris;seattle;philadelphia
