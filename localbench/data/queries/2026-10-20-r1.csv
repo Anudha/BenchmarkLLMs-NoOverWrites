@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+c7c94018718f,2026-10-20-r1,2026-10-20,coffee_shops,coffee_shop,"What is the official website of endorffeine, the coffee shop in Los Angeles?",website,natural,fresh,los_angeles
+3104342022d4,2026-10-20-r1,2026-10-20,coffee_shops,coffee_shop,What is the phone number for Velo Coffee on South Figueroa Street in Los Angeles?,phone,natural,fresh,los_angeles
+523b06eb65ff,2026-10-20-r1,2026-10-20,coffee_shops,coffee_shop,What is the street address of the coffee shop Reuben Hills in Sydney?,address,natural,stable,sydney
+5560c77d7822,2026-10-20-r1,2026-10-20,coffee_shops,coffee_shop,Which coffee shop is located at 100 Market Street in Philadelphia?,name,natural,stable,philadelphia
+679d58a02c9a,2026-10-20-r1,2026-10-20,coffee_shops,coffee_shop,"What is the official website of Sette Cafe, the coffee shop in Sydney?",website,natural,stable,sydney
+96d902918d9d,2026-10-20-r1,2026-10-20,coffee_shops,coffee_shop,Which coffee shop is located at 2012 Northeast Alberta Street in Portland?,name,natural,stable,portland
+a02138c3d014,2026-10-20-r1,2026-10-20,grocery_produce,grocery_store,What is the phone number for People's Food Co-op on Southeast 21st Avenue in Portland?,phone,natural,fresh,portland
+6662833a8339,2026-10-20-r1,2026-10-20,grocery_produce,grocery_store,What is the street address of the grocery store Genki Mart in Sydney?,address,natural,stable,sydney
+655efc0bff77,2026-10-20-r1,2026-10-20,grocery_produce,produce_market,Which produce market is located at 3526 West Slauson Avenue in Los Angeles?,name,natural,stable,los_angeles
+ca449a14b244,2026-10-20-r1,2026-10-20,grocery_produce,grocery_store,"What is the official website of 3J's Food Market, the grocery store in Philadelphia?",website,natural,stable,philadelphia
+6994b2fd72fb,2026-10-20-r1,2026-10-20,grocery_produce,farm_stand,Which farm stand is located at 3414 Lyons Road in Austin?,name,natural,stable,austin
+f638909a6ca4,2026-10-20-r1,2026-10-20,grocery_produce,grocery_store,"What is the official website of World Foods, the grocery store in Portland?",website,natural,stable,portland
+d5621e0e3396,2026-10-20-r1,2026-10-20,grocery_produce,grocery_store,What is the street address of the grocery store Bristol Farms in Los Angeles?,address,natural,stable,los_angeles
+58d0c4131331,2026-10-20-r1,2026-10-20,bike_trails,bike_route,How long is the Five Dock - Ultimo - City bike trail near Sydney?,length,natural,fresh,sydney
+2f68069a22a1,2026-10-20-r1,2026-10-20,bike_trails,bike_route,How long is the Venice Boulevard Designated Bicycle Route bike trail near Los Angeles?,length,natural,fresh,los_angeles
+35337e144bbe,2026-10-20-r1,2026-10-20,bike_trails,bike_path,"Is the Nassaukade bike trail near Amsterdam paved, gravel, or dirt?",surface,natural,stable,amsterdam
+09dd174c94e4,2026-10-20-r1,2026-10-20,bike_trails,bike_route,How long is the Erskineville - Newtown - Annandale bike trail near Sydney?,length,natural,stable,sydney
+4a89dbf5332c,2026-10-20-r1,2026-10-20,bike_trails,bike_path,"Is the Marnixstraat bike trail near Amsterdam paved, gravel, or dirt?",surface,natural,stable,amsterdam
+b25d35a58c70,2026-10-20-r1,2026-10-20,bike_trails,bike_path,"Is the Alison Road Shared Path bike trail near Sydney paved, gravel, or dirt?",surface,natural,stable,sydney
+73ee3d5a111c,2026-10-20-r1,2026-10-20,bike_trails,bike_path,Which organization operates or maintains the Grays Ferry Crescent bike trail near Philadelphia?,operator,natural,stable,philadelphia

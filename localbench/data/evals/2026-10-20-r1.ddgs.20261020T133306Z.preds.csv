@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+c7c94018718f,ddgs,result,1,http://endorffeine.coffee/,Endorffeine Coffee,"Endorffeine is an amalgam of ""endorphin"" and ""caffeine""… Endorphins are produced by our bodies, and here, represent one half of the coffee culture equation - the self; your experience can only be as good as an open mind will allow.",,,1.023
+c7c94018718f,ddgs,result,2,https://endorffeine.coffee/about/,about : Endorffeine Coffee,"Endorffeine is an amalgam of ""endorphin"" and ""caffeine""… Endorphins are produced by our bodies, and here, represent one half of the coffee culture equation - the self; your experience can only be as good as an open mind will allow. The second half comes in the form of the caffeine molecule, which triggers an increase of dopamine in the brain, and leads to pleasurable feelings.",,,1.023
+c7c94018718f,ddgs,result,3,https://www.losangelesdine.com/970928612946072/Endorffeine,Endorffeine - LosAngelesDine,"Endorffeine is a cozy coffee shop located on N Broadway, serving specialty coffees and teas brewed with mindfulness and attention to detail. The owners also offer master classes in pour-over techniques as well as future courses on brew water chemistry, palate development, and espresso methodology.",,,1.023
+c7c94018718f,ddgs,result,4,https://www.facebook.com/endorffeine/,Endorffeine | Los Angeles CA - Facebook,"Endorffeine, Los Angeles. 395 followers · 17 talking about this · 1,152 were here. The specialty coffees and teas at Endorffeine are thoughtfully brewed, without compromise. Mindfulness, continuous...",,,1.023
+c7c94018718f,ddgs,result,5,https://findit.city/en/usa/los-angeles/places/restaurants/endorffeine-7176076986,endorffeine — café in Los Angeles - findit.city,"Quick overview Café endorffeine in Los Angeles, USA. Location, frequently asked questions, and visitor information. Cuisine: coffee shop. Opening hours information available. Map Show on map Map loads on click View map",,,1.023
+3104342022d4,ddgs,error,,,,,,DDGSException: No results found.,0.046
+523b06eb65ff,ddgs,error,,,,,,DDGSException: No results found.,0.074
+5560c77d7822,ddgs,error,,,,,,DDGSException: No results found.,0.072
+679d58a02c9a,ddgs,error,,,,,,DDGSException: No results found.,0.137
+96d902918d9d,ddgs,error,,,,,,DDGSException: No results found.,0.039
+a02138c3d014,ddgs,error,,,,,,DDGSException: No results found.,0.046
+6662833a8339,ddgs,error,,,,,,DDGSException: No results found.,0.05
+655efc0bff77,ddgs,error,,,,,,DDGSException: No results found.,0.038
+ca449a14b244,ddgs,error,,,,,,DDGSException: No results found.,0.039
+6994b2fd72fb,ddgs,error,,,,,,DDGSException: No results found.,0.071
+f638909a6ca4,ddgs,error,,,,,,DDGSException: No results found.,0.047
+d5621e0e3396,ddgs,error,,,,,,DDGSException: No results found.,0.042
+58d0c4131331,ddgs,error,,,,,,DDGSException: No results found.,0.042
+2f68069a22a1,ddgs,error,,,,,,DDGSException: No results found.,0.043
+35337e144bbe,ddgs,error,,,,,,DDGSException: No results found.,0.039
+09dd174c94e4,ddgs,error,,,,,,DDGSException: No results found.,0.042
+4a89dbf5332c,ddgs,error,,,,,,DDGSException: No results found.,0.045
+b25d35a58c70,ddgs,error,,,,,,DDGSException: No results found.,0.039
+73ee3d5a111c,ddgs,error,,,,,,DDGSException: No results found.,0.041
