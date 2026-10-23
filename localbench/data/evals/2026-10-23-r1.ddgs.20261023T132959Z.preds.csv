@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+c7c95480655a,ddgs,result,1,https://www.yelp.com/biz/rowhome-coffee-pine-street-philadelphia,"Rowhome Coffee - Pine Street - Philadelphia, PA","Location & Hours Suggest an edit 2536 Pine St Philadelphia, PA 19103 Fitler Square, Rittenhouse Square Get directions",,,0.839
+c7c95480655a,ddgs,result,2,https://www.rowhomecoffee.com/menu,"Rowhome Coffee - Specialty Coffee, Comfort Cuisine","Home About Menu + Allergy List Contact Us Order - Pine Street Order - Front Street Facebook 2536 Pine St. Philadelphia, PA 19103 2152 North Front St. Philadelphia, PA 19122 Website designed & created by Elysium Marketing Group Instagram",,,0.839
+c7c95480655a,ddgs,result,3,https://www.chamberofcommerce.com/business-directory/pennsylvania/philadelphia/coffee-shop/2013155959-rowhome-coffee-pine-street,"Rowhome Coffee - Pine Street in Philadelphia, PA 19103 -","Rowhome Coffee - Pine Street located at 2536 Pine St, Philadelphia, PA 19103 - reviews, ratings, hours, phone number, directions, and more.",,,0.839
+c7c95480655a,ddgs,result,4,https://toast.app/r/rowhome-coffee-2536-pine-street,"Rowhome Coffee - Pine Street - 2536 Pine Street Philadelphia, PA","Find the hours, address and contact details for Rowhome Coffee - Pine Street, serving Cafe / Coffee Shop in Philadelphia, PA.",,,0.839
+c7c95480655a,ddgs,result,5,https://coffeeshop-usa.nears.me/business/united-states/pennsylvania/philadelphia/trusted-rowhome-coffee-pine-street-philadelphia-pa/,"Coffee Shop in Philadelphia, PA - Rowhome Coffee - Pine Street (Reviews ...","Rowhome Coffee - Pine Street is a coffee shop in Philadelphia, PA. View the menu, ratings, and operating hours. Rated 4.5 out of 5.",,,0.839
+4854af0b76e9,ddgs,error,,,,,,DDGSException: No results found.,0.05
+e91f9ef6f193,ddgs,error,,,,,,DDGSException: No results found.,0.076
+8b6f9fb03b65,ddgs,error,,,,,,DDGSException: No results found.,0.08
+4d7853045be7,ddgs,error,,,,,,DDGSException: No results found.,0.035
+8ef531a3473b,ddgs,error,,,,,,DDGSException: No results found.,0.055
+9c1752fc8199,ddgs,error,,,,,,DDGSException: No results found.,0.088
+ca1ef843c4f8,ddgs,error,,,,,,DDGSException: No results found.,0.037
+fef5ef3ced25,ddgs,error,,,,,,DDGSException: No results found.,0.065
+66508592c48c,ddgs,error,,,,,,DDGSException: No results found.,0.036
+03e36a1d7091,ddgs,error,,,,,,DDGSException: No results found.,0.053
+29bfa6fba6ae,ddgs,error,,,,,,DDGSException: No results found.,0.044
+e84c119de081,ddgs,error,,,,,,DDGSException: No results found.,0.034
+8a118f65bf2f,ddgs,error,,,,,,DDGSException: No results found.,0.032
+e9d0a6835e87,ddgs,error,,,,,,DDGSException: No results found.,0.035
+2abc925dd3e4,ddgs,error,,,,,,DDGSException: No results found.,0.054
+1aeca2e2db92,ddgs,error,,,,,,DDGSException: No results found.,0.033
+7c24816ef50c,ddgs,error,,,,,,DDGSException: No results found.,0.035
+cb20d318e3de,ddgs,error,,,,,,DDGSException: No results found.,0.035
+5859a629a798,ddgs,error,,,,,,DDGSException: No results found.,0.044

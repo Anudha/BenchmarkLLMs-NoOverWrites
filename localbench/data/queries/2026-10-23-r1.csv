@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+c7c95480655a,2026-10-23-r1,2026-10-23,coffee_shops,coffee_shop,What is the street address of the coffee shop Rowhome Coffee in Philadelphia?,address,natural,fresh,philadelphia
+4854af0b76e9,2026-10-23-r1,2026-10-23,coffee_shops,coffee_shop,What is the phone number for Vernick Coffee Bar on Arch Street in Philadelphia?,phone,natural,fresh,philadelphia
+e91f9ef6f193,2026-10-23-r1,2026-10-23,coffee_shops,coffee_shop,"What is the official website of Gleaner's Cafe Gallery, the coffee shop in Philadelphia?",website,natural,stable,philadelphia
+8b6f9fb03b65,2026-10-23-r1,2026-10-23,coffee_shops,coffee_shop,Which coffee shop is located at 37 Kastanienallee in Berlin?,name,natural,stable,berlin
+4d7853045be7,2026-10-23-r1,2026-10-23,coffee_shops,coffee_shop,What is the street address of the coffee shop Eetcafe Singel 404 in Amsterdam?,address,natural,stable,amsterdam
+8ef531a3473b,2026-10-23-r1,2026-10-23,coffee_shops,coffee_shop,"What is the official website of Princess Cheesecake, the coffee shop in Berlin?",website,natural,stable,berlin
+9c1752fc8199,2026-10-23-r1,2026-10-23,grocery_produce,grocery_store,Which grocery store is located at 468 Broadway in Boston?,name,natural,stable,boston
+ca1ef843c4f8,2026-10-23-r1,2026-10-23,grocery_produce,grocery_store,What is the phone number for Foodie's Market on West Broadway in Boston?,phone,natural,stable,boston
+fef5ef3ced25,2026-10-23-r1,2026-10-23,grocery_produce,grocery_store,"What is the official website of Mariposa Food Co-Op, the grocery store in Philadelphia?",website,natural,stable,philadelphia
+66508592c48c,2026-10-23-r1,2026-10-23,grocery_produce,grocery_store,What is the street address of the grocery store California Marketplace in Los Angeles?,address,natural,stable,los_angeles
+03e36a1d7091,2026-10-23-r1,2026-10-23,grocery_produce,grocery_store,Which grocery store is located at 267 Albert Cuypstraat in Amsterdam?,name,natural,stable,amsterdam
+29bfa6fba6ae,2026-10-23-r1,2026-10-23,grocery_produce,farm_stand,What is the street address of the farm stand Farmer's in New Orleans?,address,natural,stable,new_orleans
+e84c119de081,2026-10-23-r1,2026-10-23,grocery_produce,grocery_store,"What is the official website of Koshco Superstore, the grocery store in Los Angeles?",website,natural,stable,los_angeles
+8a118f65bf2f,2026-10-23-r1,2026-10-23,bike_trails,bike_route,How long is the Radroute Berlin Leipzig [DE-BE (Berlin)] bike trail near Berlin?,length,natural,fresh,berlin
+e9d0a6835e87,2026-10-23-r1,2026-10-23,bike_trails,bike_route,How long is the Venice bike trail near Los Angeles?,length,natural,fresh,los_angeles
+2abc925dd3e4,2026-10-23-r1,2026-10-23,bike_trails,bike_route,How long is the Los Angeles River Greenway bike trail near Los Angeles?,length,natural,stable,los_angeles
+1aeca2e2db92,2026-10-23-r1,2026-10-23,bike_trails,bike_path,"Is the Lost Emerald Necklace bike trail near Boston paved, gravel, or dirt?",surface,natural,stable,boston
+7c24816ef50c,2026-10-23-r1,2026-10-23,bike_trails,bike_route,How long is the Washington bike trail near Philadelphia?,length,natural,stable,philadelphia
+cb20d318e3de,2026-10-23-r1,2026-10-23,bike_trails,bike_route,How long is the Santa Monica Boulevard bike trail near Los Angeles?,length,natural,stable,los_angeles
+5859a629a798,2026-10-23-r1,2026-10-23,bike_trails,bike_route,Which organization operates or maintains the Radweg Berlin-Dresden [BE] bike trail near Berlin?,operator,natural,stable,berlin
