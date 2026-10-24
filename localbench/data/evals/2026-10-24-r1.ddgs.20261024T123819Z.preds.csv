@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+413471fbf397,ddgs,result,1,https://www.restaurantji.com/bc/vancouver/harvest-community-foods-/,"Harvest Community Foods, Vancouver - Menu, Reviews (123 ... - Restaurantji","Latest reviews, photos and ratings for Harvest Community Foods at 243 Union St in Vancouver - view the menu, hours, phone number, address and map.",,,0.853
+413471fbf397,ddgs,result,2,https://www.harvestunion.ca/,"Harvest Community Foods | CSA grocery | 243 Union Street, Vancouver, BC ...","Harvest has roots firmly planted in community. We are a community supported locally sourced grocery store and noodle soup cafe. Owned and operated by local chefs Andrea Carlson and Gabriella Meyer, the shop also provides a pick up location for Community Supported Agriculture (CSA) bags. Food Security is our thing.",,,0.853
+413471fbf397,ddgs,result,3,https://downundercafe.com/en/cafe/harvest-community-foods-vancouver,Harvest Community Foods in Vancouver | Down Under Cafe,"Discover Harvest Community Foods in Vancouver for a cozy atmosphere, specialty coffee, and locally sourced treats perfect for brunch or a casual meetup.",,,0.853
+413471fbf397,ddgs,result,4,https://www.canadapages.com/harvest-community-foods-vancouver-bc-6046828851/,"Harvest Community Foods Vancouver, 6046828851, cafes, 243 Union Street ...","cafes, eating places, Coffee & Tea Harvest Community Foods, Phone Number (604) 682-8851, is located at 243 Union Street, Vancouver, BC, V6A2B2, BC Canada. Outside Vancouver Area, Dial +1 6046828851. Get Directions, Location Map, Find Hours of Operation, Methods of Payment, Products and Services. This Vancouver Listing is in the Cafes Category.",,,0.853
+413471fbf397,ddgs,result,5,https://www.cybo.com/CA-biz/harvest-community-foods,"Harvest Community Foods - 243 Union St, Vancouver, BC V6A 2Z7… - Cybo","Our establishment was formed through the project This Space, which allowed the community to decide on the type of business they wanted at 243 Union Street. At Harvest Community Foods, customers can find a cozy shop with a variety of organic groceries, produce, noodle bowls, and salads. Please note that the last call for dine-in orders is at 7:30pm.",,,0.853
+474c39d4b77a,ddgs,error,,,,,,DDGSException: No results found.,0.188
+880391431032,ddgs,error,,,,,,DDGSException: No results found.,0.134
+7e3f84b84754,ddgs,error,,,,,,DDGSException: No results found.,0.175
+ac9ce8ac19ae,ddgs,error,,,,,,DDGSException: No results found.,0.063
+46cb87bc4558,ddgs,error,,,,,,DDGSException: No results found.,0.075
+94e36ee2cb22,ddgs,error,,,,,,DDGSException: No results found.,0.109
+bf816c5ca34c,ddgs,error,,,,,,DDGSException: No results found.,0.078
+be16fbe4fff6,ddgs,error,,,,,,DDGSException: No results found.,0.085
+701673249014,ddgs,error,,,,,,DDGSException: No results found.,0.073
+a987101b561f,ddgs,error,,,,,,DDGSException: No results found.,0.141
+2f87960ed777,ddgs,error,,,,,,DDGSException: No results found.,0.075
+47cc35504b2d,ddgs,error,,,,,,DDGSException: No results found.,0.063
+2909e58a60a2,ddgs,error,,,,,,DDGSException: No results found.,0.075
+7d90809a0fe6,ddgs,error,,,,,,DDGSException: No results found.,0.078
+12afb38ac111,ddgs,error,,,,,,DDGSException: No results found.,0.073
+5d064b796687,ddgs,error,,,,,,DDGSException: No results found.,0.081
+dd407330bfdd,ddgs,error,,,,,,DDGSException: No results found.,0.071
+68f3df2a126a,ddgs,error,,,,,,DDGSException: No results found.,0.07
+6562aed1a768,ddgs,error,,,,,,DDGSException: No results found.,0.071

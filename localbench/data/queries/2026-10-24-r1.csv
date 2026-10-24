@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+413471fbf397,2026-10-24-r1,2026-10-24,coffee_shops,coffee_shop,What is the street address of the coffee shop Harvest Community Foods in Vancouver?,address,natural,fresh,vancouver
+474c39d4b77a,2026-10-24-r1,2026-10-24,coffee_shops,coffee_shop,Which coffee shop is located at 1886 Scotia Street in Vancouver?,name,natural,fresh,vancouver
+880391431032,2026-10-24-r1,2026-10-24,coffee_shops,coffee_shop,What is the phone number for Franzè & Evans on Redchurch Street in London?,phone,natural,stable,london
+7e3f84b84754,2026-10-24-r1,2026-10-24,coffee_shops,coffee_shop,"What is the official website of As you like, the coffee shop in New York?",website,natural,stable,new_york
+ac9ce8ac19ae,2026-10-24-r1,2026-10-24,coffee_shops,coffee_shop,What is the phone number for Good Earth Coffeehouse on Robson Street in Vancouver?,phone,natural,stable,vancouver
+46cb87bc4558,2026-10-24-r1,2026-10-24,coffee_shops,coffee_shop,"What is the official website of H.R. Higgins, the coffee shop in London?",website,natural,stable,london
+94e36ee2cb22,2026-10-24-r1,2026-10-24,grocery_produce,grocery_store,"What is the official website of Zora Supermarket, the grocery store in Berlin?",website,natural,fresh,berlin
+bf816c5ca34c,2026-10-24-r1,2026-10-24,grocery_produce,grocery_store,What is the street address of the grocery store Food Cellar & Co Market in Long Island City?,address,natural,fresh,new_york
+be16fbe4fff6,2026-10-24-r1,2026-10-24,grocery_produce,farm_stand,Which farm stand is located at 1301 West Oltorf Street in Austin?,name,natural,stable,austin
+701673249014,2026-10-24-r1,2026-10-24,grocery_produce,grocery_store,"What is the official website of Panzer's Delicatessen, the grocery store in London?",website,natural,stable,london
+a987101b561f,2026-10-24-r1,2026-10-24,grocery_produce,grocery_store,Which grocery store is located at 18 Piazza Walk in London?,name,natural,stable,london
+2f87960ed777,2026-10-24-r1,2026-10-24,grocery_produce,grocery_store,What is the phone number for Vegan Supply on East Pender Street in Vancouver?,phone,natural,stable,vancouver
+47cc35504b2d,2026-10-24-r1,2026-10-24,grocery_produce,grocery_store,What is the phone number for Associated Fresh Supermarket on Madison Avenue in New York?,phone,natural,stable,new_york
+2909e58a60a2,2026-10-24-r1,2026-10-24,bike_trails,bike_route,How long is the LCN 44 bike trail near London?,length,natural,fresh,london
+7d90809a0fe6,2026-10-24-r1,2026-10-24,bike_trails,bike_route,What is the official website for the RR1: Wannsee-Route bike trail near Berlin?,website,natural,fresh,berlin
+12afb38ac111,2026-10-24-r1,2026-10-24,bike_trails,bike_route,How long is the 11th Street bike trail near Philadelphia?,length,natural,stable,philadelphia
+5d064b796687,2026-10-24-r1,2026-10-24,bike_trails,bike_route,How long is the East Broadway bike trail near New York?,length,natural,stable,new_york
+dd407330bfdd,2026-10-24-r1,2026-10-24,bike_trails,bike_route,Which bike trail runs from West Brompton to South Kensington near London?,name,natural,stable,london
+68f3df2a126a,2026-10-24-r1,2026-10-24,bike_trails,bike_route,How long is the 38th Street bike trail near New York?,length,natural,stable,new_york
+6562aed1a768,2026-10-24-r1,2026-10-24,bike_trails,bike_route,Which bike trail runs from Grattan Street to Cooper Avenue near New York?,name,natural,stable,new_york
