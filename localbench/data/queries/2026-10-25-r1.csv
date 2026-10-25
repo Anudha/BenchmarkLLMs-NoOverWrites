@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+d03fbadacea3,2026-10-25-r1,2026-10-25,coffee_shops,coffee_shop,Which coffee shop is located at 96 Rue Vieille du Temple in Paris?,name,natural,fresh,paris
+16f36e5bdb21,2026-10-25-r1,2026-10-25,coffee_shops,coffee_shop,What is the phone number for Upper Café on Rue des Lombards in Paris?,phone,natural,fresh,paris
+5fd98a0b3f53,2026-10-25-r1,2026-10-25,coffee_shops,coffee_shop,"What is the official website of Greenhorn Cafe, the coffee shop in Vancouver?",website,natural,stable,vancouver
+cda73df0b0ef,2026-10-25-r1,2026-10-25,coffee_shops,coffee_shop,What is the street address of the coffee shop Graines du jour in Paris?,address,natural,stable,paris
+0f5157239873,2026-10-25-r1,2026-10-25,coffee_shops,coffee_shop,Which coffee shop is located at 383 Dorchester Avenue in Boston?,name,natural,stable,boston
+26187cfd2485,2026-10-25-r1,2026-10-25,coffee_shops,coffee_shop,What is the street address of the coffee shop Chile Lindo in San Francisco?,address,natural,stable,san_francisco
+13512f6f4284,2026-10-25-r1,2026-10-25,coffee_shops,coffee_shop,What is the phone number for Honest to Pete Roasters on Alberta Street in Vancouver?,phone,natural,stable,vancouver
+d539608cce82,2026-10-25-r1,2026-10-25,grocery_produce,grocery_store,"What is the official website of Chef'Store, the grocery store in San Francisco?",website,natural,fresh,san_francisco
+b59ee61348a9,2026-10-25-r1,2026-10-25,grocery_produce,grocery_store,What is the phone number for People's Food Co-op on Southeast 21st Avenue in Portland?,phone,natural,fresh,portland
+1e90101aafdd,2026-10-25-r1,2026-10-25,grocery_produce,grocery_store,What is the street address of the grocery store World Foods in Portland?,address,natural,stable,portland
+bd9b88fe5dac,2026-10-25-r1,2026-10-25,grocery_produce,grocery_store,Which grocery store is located at 3930 Judah Street in San Francisco?,name,natural,stable,san_francisco
+e9492c0fea18,2026-10-25-r1,2026-10-25,grocery_produce,produce_market,What is the phone number for Hollywood Farmers Market on Northeast Hancock Street in Portland?,phone,natural,stable,portland
+c123f4d3f2bb,2026-10-25-r1,2026-10-25,grocery_produce,produce_market,Which produce market is located at 51 Rue de la Fontaine au Roi in Paris?,name,natural,stable,paris
+8f2cb2cf6745,2026-10-25-r1,2026-10-25,grocery_produce,produce_market,What is the street address of the produce market Terroirs d’Avenir in Paris?,address,natural,stable,paris
+63cd18b16239,2026-10-25-r1,2026-10-25,bike_trails,bike_path,How long is the Southwest 4th Avenue bike trail near Portland?,length,natural,fresh,portland
+63863714507b,2026-10-25-r1,2026-10-25,bike_trails,bike_route,Which bike trail runs from Saint-Nom-la-Bretèche to Val d'Europe near Paris?,name,natural,fresh,paris
+97b8efde3c66,2026-10-25-r1,2026-10-25,bike_trails,bike_route,How long is the North Michigan Neighborhood Greenway bike trail near Portland?,length,natural,stable,portland
+9820d150b67a,2026-10-25-r1,2026-10-25,bike_trails,bike_route,How long is the Brannan Street Bike Route bike trail near San Francisco?,length,natural,stable,san_francisco
+7acd947f185e,2026-10-25-r1,2026-10-25,bike_trails,bike_path,Which organization operates or maintains the Willamette Greenway bike trail near Portland?,operator,natural,stable,portland
+0d3f6bda240d,2026-10-25-r1,2026-10-25,bike_trails,bike_route,How long is the Cambie Bridge Bikeway bike trail near Vancouver?,length,natural,stable,vancouver

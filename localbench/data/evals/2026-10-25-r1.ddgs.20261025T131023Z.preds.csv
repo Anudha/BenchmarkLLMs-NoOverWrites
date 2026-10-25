@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+d03fbadacea3,ddgs,result,1,https://findit.city/en/france/paris/places/restaurants/le-saint-gervais-714186800,Le Saint-Gervais — café in Paris,"FAQ Where is it? Address: Rue Vieille du Temple, 96, Paris. A quick check on the map can help confirm the entrance and the easiest approach.",,,1.231
+d03fbadacea3,ddgs,result,2,https://www.yelp.com/biz/le-saint-gervais-paris,LE SAINT GERVAIS - Updated September 2026 - 19 Photos - 96 rue du ...,"9 reviews and 19 photos of LE SAINT GERVAIS ""My review is based on refreshment and sitting outside only. The waiter that helped me couldn't have been more friendly, prompt and helpful. A nice location for a break to have a coffee, beer or wine.""",,,1.231
+d03fbadacea3,ddgs,result,3,https://mapy.com/en/?source=osm&id=12876448,Le Saint-Gervais (Coffee house) • Mapy.com,"Coffee house Rue Vieille du Temple 96, Paris - 3rd arrondissement of Paris, France Rue Vieille du Temple 96, Paris - 3e arrondissement de Paris, France Directions Save Share Tips for trips Have you been here? Share your experience Add a rating Closed - opens today from 8 01 January - 31 December Monday Tuesday Wednesday Thursday Friday Saturday Sunday 8-23 8-23 8-23 8-23 8-23 9 ...",,,1.231
+d03fbadacea3,ddgs,result,4,https://unilocal.fr/france/paris/le-saint-gervais,"Le Saint Gervais - Paris, 96 rue du Vielle Temple (2 avis et adresse)","Afficher les informations de contact et 2 avis pour Le Saint Gervais à 96 rue du Vielle Temple, Paris, ou écrire un avis. Explorer une carte interactive avec des adresses proches.",,,1.231
+d03fbadacea3,ddgs,result,5,https://restaurantguru.com/Le-Saint-Gervais-Paris,"Le Saint-Gervais, Paris - Restaurant menu, prices and reviews","Le Saint-Gervais in Paris rated 2.5 out of 5 on Restaurant Guru: 457 reviews by visitors, 134 photos & 20 videos. Explore menu, check opening hours and book a table",,,1.231
+16f36e5bdb21,ddgs,error,,,,,,DDGSException: No results found.,0.118
+5fd98a0b3f53,ddgs,error,,,,,,DDGSException: No results found.,0.063
+cda73df0b0ef,ddgs,error,,,,,,DDGSException: No results found.,0.089
+0f5157239873,ddgs,error,,,,,,DDGSException: No results found.,0.102
+26187cfd2485,ddgs,error,,,,,,DDGSException: No results found.,0.067
+13512f6f4284,ddgs,error,,,,,,DDGSException: No results found.,0.09
+d539608cce82,ddgs,error,,,,,,DDGSException: No results found.,0.06
+b59ee61348a9,ddgs,error,,,,,,DDGSException: No results found.,0.11
+1e90101aafdd,ddgs,error,,,,,,DDGSException: No results found.,0.068
+bd9b88fe5dac,ddgs,error,,,,,,DDGSException: No results found.,0.069
+e9492c0fea18,ddgs,error,,,,,,DDGSException: No results found.,0.07
+c123f4d3f2bb,ddgs,error,,,,,,DDGSException: No results found.,0.053
+8f2cb2cf6745,ddgs,error,,,,,,DDGSException: No results found.,0.081
+63cd18b16239,ddgs,error,,,,,,DDGSException: No results found.,0.054
+63863714507b,ddgs,error,,,,,,DDGSException: No results found.,0.054
+97b8efde3c66,ddgs,error,,,,,,DDGSException: No results found.,0.049
+9820d150b67a,ddgs,error,,,,,,DDGSException: No results found.,0.049
+7acd947f185e,ddgs,error,,,,,,DDGSException: No results found.,0.051
+0d3f6bda240d,ddgs,error,,,,,,DDGSException: No results found.,0.056
