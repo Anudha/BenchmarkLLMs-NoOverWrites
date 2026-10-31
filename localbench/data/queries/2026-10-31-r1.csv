@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+f9a1b0f5ff2e,2026-10-31-r1,2026-10-31,coffee_shops,coffee_shop,Which coffee shop is located at 4 Rue du Sabot in Paris?,name,natural,fresh,paris
+aac9c5c39661,2026-10-31-r1,2026-10-31,coffee_shops,coffee_shop,"What is the official website of Vjosa Cafe & Events, the coffee shop in Chicago?",website,natural,fresh,chicago
+199daa8a5643,2026-10-31-r1,2026-10-31,coffee_shops,coffee_shop,What is the phone number for Le Rostand on Place Edmond Rostand in Paris?,phone,natural,stable,paris
+25dcf5d9bac3,2026-10-31-r1,2026-10-31,coffee_shops,coffee_shop,What is the street address of the coffee shop Solid State Coffee in New York?,address,natural,stable,new_york
+8a072d55b1de,2026-10-31-r1,2026-10-31,coffee_shops,coffee_shop,What is the street address of the coffee shop Grind in New York?,address,natural,stable,new_york
+78850ae36f77,2026-10-31-r1,2026-10-31,coffee_shops,coffee_shop,Which coffee shop is located at 1132 West Wilson Avenue in Chicago?,name,natural,stable,chicago
+15a11be0652b,2026-10-31-r1,2026-10-31,coffee_shops,coffee_shop,What is the phone number for Umi Falafel on Dame Street in Dublin?,phone,natural,stable,dublin
+55be0c7a34f5,2026-10-31-r1,2026-10-31,grocery_produce,grocery_store,What is the street address of the grocery store Zora Supermarket in Berlin?,address,natural,fresh,berlin
+dba0802cbdb2,2026-10-31-r1,2026-10-31,grocery_produce,grocery_store,What is the phone number for The Green Corner Fish & Farmers Market on Flushing Avenue in Brooklyn?,phone,natural,fresh,new_york
+d53130ba652c,2026-10-31-r1,2026-10-31,grocery_produce,grocery_store,Which grocery store is located at 224 East 59th Street in New York?,name,natural,stable,new_york
+7e63881003bc,2026-10-31-r1,2026-10-31,grocery_produce,grocery_store,"What is the official website of Open Produce, the grocery store in Chicago?",website,natural,stable,chicago
+67ba421b5e0e,2026-10-31-r1,2026-10-31,grocery_produce,grocery_store,"What is the official website of Ten Ichi Mart, the grocery store in Brooklyn?",website,natural,stable,new_york
+a4dc25c48b1f,2026-10-31-r1,2026-10-31,grocery_produce,grocery_store,Which grocery store is located at 1427 West Willow Street in Chicago?,name,natural,stable,chicago
+a7e422c5fee2,2026-10-31-r1,2026-10-31,bike_trails,bike_route,How long is the Fort Washington Avenue bike trail near New York?,length,natural,fresh,new_york
+cb2d21ad27ab,2026-10-31-r1,2026-10-31,bike_trails,bike_route,What is the official website for the VIF V6 Cergy-Pontoise - Tournan-en-Brie bike trail near Paris?,website,natural,fresh,paris
+c563700f0307,2026-10-31-r1,2026-10-31,bike_trails,bike_route,How long is the North 2nd bike trail near Philadelphia?,length,natural,stable,philadelphia
+1608061d1a8e,2026-10-31-r1,2026-10-31,bike_trails,bike_path,"Is the North Strand Road bike trail near Dublin paved, gravel, or dirt?",surface,natural,stable,dublin
+042f37397823,2026-10-31-r1,2026-10-31,bike_trails,bike_route,How long is the RFK Bridge: Manhattan to Randall's Island bike trail near New York?,length,natural,stable,new_york
+5efe71ef354f,2026-10-31-r1,2026-10-31,bike_trails,bike_route,How long is the Dearborn Street bike trail near Chicago?,length,natural,stable,chicago
+6cb3ce01f248,2026-10-31-r1,2026-10-31,bike_trails,bike_path,"Is the Avenue Ledru-Rollin bike trail near Paris paved, gravel, or dirt?",surface,natural,stable,paris

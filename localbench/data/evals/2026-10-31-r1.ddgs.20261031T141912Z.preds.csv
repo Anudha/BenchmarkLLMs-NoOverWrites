@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+f9a1b0f5ff2e,ddgs,result,1,https://www.lefigaro.fr/culture/blitz-society-le-nouveau-cafe-d-echecs-de-paris-aime-le-jeu-eclair-20211121,"Blitz Society, le nouveau café d'échecs de Paris aime le jeu éclair","Les blitzeurs fous de la rue du sabot attendent déjà, avec une alacrité non dissimulée, sa venue... Le café-bar Blitz Society, 4, rue du Sabot Paris VIe, ouvert du mardi au dimanche 11h-23h.",,,1.141
+f9a1b0f5ff2e,ddgs,result,2,https://www.mylittleparis.com/resto-bars-ou-boire/echecs-blitz-society-cafe,Speed-chessing - Où boire ? - My Little Paris,"Pion rue du Sabot. Café commandé. Ouverture parisienne. Bienvenue chez Blitz Society, le café des joueurs d'échecs en tout genre. Mais surtout des amateurs de blitz, les parties de 5 minutes pour du speed-dating façon damier. Dans un vieil immeuble qui a gardé ses poutres, ferrailles et pierre d'antan, trois salles et trois ambiances de jeu.",,,1.141
+f9a1b0f5ff2e,ddgs,result,3,https://mapstr.com/place/OLAFXgJdX2/blitz-society-paris-bar-cafe-jeux-chess-restaurant,Mapstr - Blitz Society : Le bar chess incontournable à Paris,"Blitz Society : Le bar chess incontournable à Paris Blitz Society, ouvert en 2023 par des passionnés de jeux, est rapidement devenu un lieu emblématique du quartier Saint-Germain-des-Prés à Paris. Fondé par une équipe de passionnés, ce bar café dédié aux échecs offre un espace unique pour les amateurs de chess et de jeux de société.",,,1.141
+f9a1b0f5ff2e,ddgs,result,4,https://www.ticketac.com/salles/blitz-society,Blitz Society - Café d'échecs à Paris - Ticketac,"Situé au cœur de Saint-Germain-des-Prés, rue du Sabot à Paris, découvrez Blitz Society, un bar feutré à l'ambiance unique, entièrement dédié aux échecs.",,,1.141
+f9a1b0f5ff2e,ddgs,result,5,https://www.blitzsociety.fr/en,Blitz Society | Bars d'échecs à Paris,"Blitz Society, 4 Rue du Sabot, 75006 Paris, France 5 rounds of 10 minutes + 2 seconds, FIDE rated, under 1700 Elo. Entry fee €20, includes a soft drink. An FFE license is required to play. Obtain it online before the tournament; it is valid until September 2027. If you don't already have one, add the B License for €14 to your order ...",,,1.141
+aac9c5c39661,ddgs,error,,,,,,DDGSException: No results found.,0.188
+199daa8a5643,ddgs,error,,,,,,DDGSException: No results found.,0.214
+25dcf5d9bac3,ddgs,error,,,,,,DDGSException: No results found.,0.186
+8a072d55b1de,ddgs,error,,,,,,DDGSException: No results found.,0.183
+78850ae36f77,ddgs,error,,,,,,DDGSException: No results found.,0.3
+15a11be0652b,ddgs,error,,,,,,DDGSException: No results found.,0.218
+55be0c7a34f5,ddgs,error,,,,,,DDGSException: No results found.,0.217
+dba0802cbdb2,ddgs,error,,,,,,DDGSException: No results found.,0.179
+d53130ba652c,ddgs,error,,,,,,DDGSException: No results found.,0.175
+7e63881003bc,ddgs,error,,,,,,DDGSException: No results found.,0.17
+67ba421b5e0e,ddgs,error,,,,,,DDGSException: No results found.,0.166
+a4dc25c48b1f,ddgs,error,,,,,,DDGSException: No results found.,0.16
+a7e422c5fee2,ddgs,error,,,,,,DDGSException: No results found.,0.173
+cb2d21ad27ab,ddgs,error,,,,,,DDGSException: No results found.,0.164
+c563700f0307,ddgs,error,,,,,,DDGSException: No results found.,0.165
+1608061d1a8e,ddgs,error,,,,,,DDGSException: No results found.,0.176
+042f37397823,ddgs,error,,,,,,DDGSException: No results found.,0.169
+5efe71ef354f,ddgs,error,,,,,,DDGSException: No results found.,0.171
+6cb3ce01f248,ddgs,error,,,,,,DDGSException: No results found.,0.17
