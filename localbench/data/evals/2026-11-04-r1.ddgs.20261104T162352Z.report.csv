@@ -1,0 +1,8 @@
+dimension,group,n,recall_at_k,mrr_at_k,answer_acc
+overall,all,1,0.0,0.0,
+vertical,coffee_shops,1,0.0,0.0,
+category,coffee_shop,1,0.0,0.0,
+field,address,1,0.0,0.0,
+bucket,fresh,1,0.0,0.0,
+style,natural,1,0.0,0.0,
+city,seattle,1,0.0,0.0,

@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+cea11eeb65aa,ddgs,result,1,https://broadcastcoffeeroasters.com/pages/our-cafes,Our Cafes - Broadcast Coffee,"Broadcast Coffee is a coffee roaster and cafe based in Seattle, Washington. Responsibly sourced and produced coffee available online with free delivery, or at any of the four cafe locations. Offering free shipping online and coffee subscriptions.",,,1.203
+cea11eeb65aa,ddgs,result,2,https://broadcastcoffeeroasters.com/,Broadcast Coffee - Coffee Roaster & Cafe - Seattle Washington,"Broadcast Coffee is a coffee roaster and cafe based in Seattle, Washington. Responsibly sourced and produced coffee available online with free delivery, or at any of the four cafe locations.",,,1.203
+cea11eeb65aa,ddgs,result,3,https://www.findglocal.com/US/Seattle/128321357876212/Broadcast-Coffee-Roasters,"Broadcast Coffee Roasters, 2515 S JACKSON Street, Seattle, WA (2026)","Share Contact information, map and directions, contact form, opening hours, services, ratings, photos, videos and announcements from Broadcast Coffee Roasters, Coffee shop, 2515 S JACKSON Street, Seattle, WA.",,,1.203
+cea11eeb65aa,ddgs,result,4,https://www.mapquest.com/us/washington/broadcast-coffee-roasters-377180307,"Broadcast Coffee Roasters, 2524 S Jackson St, Seattle, WA 98144, US ...","Get more information for Broadcast Coffee Roasters in Seattle, WA. See reviews, map, get the address, and find directions.",,,1.203
+cea11eeb65aa,ddgs,result,5,https://www.restaurantji.com/wa/seattle/broadcast-coffee-3/,"Broadcast Coffee, Seattle - Menu, Reviews (89), Photos (49 ...","Latest reviews, photos and ratings for Broadcast Coffee at 2524 S Jackson St #104 in Seattle - view the menu, hours, phone number, address and map.",,,1.203
+bd563a5244d6,ddgs,error,,,,,,DDGSException: No results found.,0.22
+f23479c6d340,ddgs,error,,,,,,DDGSException: No results found.,0.193
+7bc7c79ce437,ddgs,error,,,,,,DDGSException: No results found.,0.199
+95906f4a5914,ddgs,error,,,,,,DDGSException: No results found.,0.153
+2d59c444b082,ddgs,error,,,,,,DDGSException: No results found.,0.415
+34ec9626886e,ddgs,error,,,,,,DDGSException: No results found.,0.166
+7975e454e646,ddgs,error,,,,,,DDGSException: No results found.,0.154
+52ebacab3181,ddgs,error,,,,,,DDGSException: No results found.,0.187
+f321d3dfb3b0,ddgs,error,,,,,,DDGSException: No results found.,0.162
+7af80d19a765,ddgs,error,,,,,,DDGSException: No results found.,0.278
+0d092b9504f0,ddgs,error,,,,,,DDGSException: No results found.,0.154
+06bd971b3904,ddgs,error,,,,,,DDGSException: No results found.,0.153
+ed4a23e04c98,ddgs,error,,,,,,DDGSException: No results found.,0.19
+31df6ec040dc,ddgs,error,,,,,,DDGSException: No results found.,0.166
+8d31476e1f67,ddgs,error,,,,,,DDGSException: No results found.,0.154
+6725c0208602,ddgs,error,,,,,,DDGSException: No results found.,0.193
+9a900f0a0626,ddgs,error,,,,,,DDGSException: No results found.,0.153
+d28e71778b67,ddgs,error,,,,,,DDGSException: No results found.,0.171
+3a6694263be4,ddgs,error,,,,,,DDGSException: No results found.,0.154
