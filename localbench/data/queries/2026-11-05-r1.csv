@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+9fb68380857f,2026-11-05-r1,2026-11-05,coffee_shops,coffee_shop,What is the street address of the coffee shop Bloc in Somerville?,address,natural,fresh,boston
+939c84ccbb8a,2026-11-05-r1,2026-11-05,coffee_shops,coffee_shop,What is the phone number for Fuller's Coffee Shop on NW 9th Ave in Portland?,phone,natural,fresh,portland
+c8f191f126fc,2026-11-05-r1,2026-11-05,coffee_shops,coffee_shop,"What is the official website of Bold Coffee and Books, the coffee shop in Portland?",website,natural,stable,portland
+c8b64162708b,2026-11-05-r1,2026-11-05,coffee_shops,coffee_shop,Which coffee shop is located at 4321 Southeast Hawthorne Boulevard in Portland?,name,natural,stable,portland
+286b0eddc0f2,2026-11-05-r1,2026-11-05,coffee_shops,coffee_shop,Which coffee shop is located at 356 Water Street in Vancouver?,name,natural,stable,vancouver
+5956e72b5048,2026-11-05-r1,2026-11-05,coffee_shops,coffee_shop,What is the street address of the coffee shop La Boulangerie in San Francisco?,address,natural,stable,san_francisco
+fe5ad88eed03,2026-11-05-r1,2026-11-05,coffee_shops,coffee_shop,What is the phone number for Farm:Table on Post Street in San Francisco?,phone,natural,stable,san_francisco
+a32dab34fefd,2026-11-05-r1,2026-11-05,grocery_produce,grocery_store,"What is the official website of People's Food Co-op, the grocery store in Portland?",website,natural,fresh,portland
+f9658b1e2f0f,2026-11-05-r1,2026-11-05,grocery_produce,produce_market,What is the street address of the produce market Sener Groente Fruit in Amsterdam?,address,natural,fresh,amsterdam
+e53f8e1d131b,2026-11-05-r1,2026-11-05,grocery_produce,grocery_store,Which grocery store is located at 230 West Broadway in Boston?,name,natural,stable,boston
+7630b8eb4605,2026-11-05-r1,2026-11-05,grocery_produce,produce_market,What is the phone number for Karma Food Cooperative on Palmerston Avenue in Toronto?,phone,natural,stable,toronto
+16e752e1536f,2026-11-05-r1,2026-11-05,grocery_produce,grocery_store,"What is the official website of Queen Supermarket Convenience, the grocery store in Toronto?",website,natural,stable,toronto
+fd52a55d3f82,2026-11-05-r1,2026-11-05,grocery_produce,grocery_store,What is the street address of the grocery store C&C Asian Market in Amsterdam?,address,natural,stable,amsterdam
+bab2bbf3f7da,2026-11-05-r1,2026-11-05,grocery_produce,produce_market,Which produce market is located at 2230 Southeast Hawthorne Boulevard in Portland?,name,natural,stable,portland
+c6913550e052,2026-11-05-r1,2026-11-05,bike_trails,bike_path,"Is the Ontario Street bike trail near Vancouver paved, gravel, or dirt?",surface,natural,fresh,vancouver
+ebddc212ea92,2026-11-05-r1,2026-11-05,bike_trails,bike_path,How long is the Stanley Park Seawall Bike Path bike trail near Vancouver?,length,natural,fresh,vancouver
+2a3d0c80e83d,2026-11-05-r1,2026-11-05,bike_trails,bike_path,How long is the Overtoom bike trail near Amsterdam?,length,natural,stable,amsterdam
+122cab37f1af,2026-11-05-r1,2026-11-05,bike_trails,bike_path,"Is the Springwater on the Willamette bike trail near Portland paved, gravel, or dirt?",surface,natural,stable,portland
+c38a63c7d5af,2026-11-05-r1,2026-11-05,bike_trails,bike_path,How long is the Burrard Street Cycleway bike trail near Vancouver?,length,natural,stable,vancouver
+57bdbdb44710,2026-11-05-r1,2026-11-05,bike_trails,bike_route,How long is the East Boston Greenway bike trail near Boston?,length,natural,stable,boston

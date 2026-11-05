@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+9fb68380857f,ddgs,result,1,https://blocsomerville.com/contact/,Contact - Bloc Cafe,"Email Us 617 623 0000 11 Bow St Somerville, MA Contact Bloc Send us an e-mail Gift Cards Our gift cards are perfect for coffee lovers and non-coffee drinkers alike.",,,1.073
+9fb68380857f,ddgs,result,2,https://www.findglocal.com/US/Somerville/93187122905/Bloc,"Bloc, 11 Bow Street, Somerville, MA (2026) - Find Local Businesses","Bloc 11 Bow Street, Somerville Cafe Telephone Address Website Contact the restaurant",,,1.073
+9fb68380857f,ddgs,result,3,https://blocsomerville.com/order-online/,| Bloc Cafe - Bloc Cafe,"Pick Up 11 Bow Street Somerville, MA 02143 7:00 AM to 6:00 PM EVERY DAY Delivery Gift Cards >",,,1.073
+9fb68380857f,ddgs,result,4,https://www.yelp.com/biz/bloc-somerville-somerville,Bloc Somerville,"Specialties: Unlike other larger competitors in the coffee industry, we are committed to maintaining the art and craft of beverage preparation. Our bar training is intensive and even senior staff members continually check in with one another to make sure that the quality of their drinks is up to par. Established in 2007. Bloc was founded 9 years after ...",,,1.073
+9fb68380857f,ddgs,result,5,https://www.mapquest.com/us/massachusetts/bloc-somerville-464754010,"Bloc Somerville, 11 Bow St, Somerville, MA 02143, US - MapQuest","Get more information for Bloc Somerville in Somerville, MA. See reviews, map, get the address, and find directions.",,,1.073
+939c84ccbb8a,ddgs,error,,,,,,DDGSException: No results found.,0.063
+c8f191f126fc,ddgs,error,,,,,,DDGSException: No results found.,0.068
+c8b64162708b,ddgs,error,,,,,,DDGSException: No results found.,0.171
+286b0eddc0f2,ddgs,error,,,,,,DDGSException: No results found.,0.12
+5956e72b5048,ddgs,error,,,,,,DDGSException: No results found.,0.055
+fe5ad88eed03,ddgs,error,,,,,,DDGSException: No results found.,0.07
+a32dab34fefd,ddgs,error,,,,,,DDGSException: No results found.,0.051
+f9658b1e2f0f,ddgs,error,,,,,,DDGSException: No results found.,0.087
+e53f8e1d131b,ddgs,error,,,,,,DDGSException: No results found.,0.04
+7630b8eb4605,ddgs,error,,,,,,DDGSException: No results found.,0.053
+16e752e1536f,ddgs,error,,,,,,DDGSException: No results found.,0.037
+fd52a55d3f82,ddgs,error,,,,,,DDGSException: No results found.,0.04
+bab2bbf3f7da,ddgs,error,,,,,,DDGSException: No results found.,0.04
+c6913550e052,ddgs,error,,,,,,DDGSException: No results found.,0.043
+ebddc212ea92,ddgs,error,,,,,,DDGSException: No results found.,0.041
+2a3d0c80e83d,ddgs,error,,,,,,DDGSException: No results found.,0.118
+122cab37f1af,ddgs,error,,,,,,DDGSException: No results found.,0.035
+c38a63c7d5af,ddgs,error,,,,,,DDGSException: No results found.,0.048
+57bdbdb44710,ddgs,error,,,,,,DDGSException: No results found.,0.04
