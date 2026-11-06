@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+b1389fa3c47c,ddgs,result,1,https://anchorbloomcafe.com/,Anchor & Bloom Café Shop Belltown Seattle,"We created Anchor & Bloom Café with the deep-rooted belief that a great cup of coffee is important in a city renowned around the world for its culture of coffee enthusiasts. Nestled in Belltown near the heart of Seattle's vibrant Pike Place Market, our cozy café is a place for coffee lovers, whether you're on the go or gathering with friends to sit and sip in our warm, inviting atmosphere.",,,0.741
+b1389fa3c47c,ddgs,result,2,https://anchorbloomcafe.com/about-us/,About Anchor & Bloom Café Nestled in Belltown Seattle,"About The Anchor & Bloom Café Nestled in Belltown Seattle Our Story: Our journey began with a simple mission: to provide exceptional coffee, create a space where our guests could gather, relax and enjoy, and to provide the best possible customer service experience through our friendly and welcoming staff of professional baristas.",,,0.741
+b1389fa3c47c,ddgs,result,3,https://local.yahoo.com/info-236734067-anchor-bloom-café-seattle/,"Anchor & Bloom Café in Seattle, WA - Reviews, Hours, and ... - Yahoo","Read customer reviews and get hours of operation and contact information for Anchor & Bloom Café, a(n) Coffee Houses business in Seattle, WA.",,,0.741
+b1389fa3c47c,ddgs,result,4,https://biznoxa.com/dir/anchor-bloom-cafe-seattle-wa/,"Anchor & Bloom Cafe | Seattle, WA - biznoxa.com","View Anchor & Bloom Cafe in Seattle, WA. Get phone, address, hours, reviews, website, and directions.",,,0.741
+b1389fa3c47c,ddgs,result,5,https://yourgirlneedscoffee.com/shop/anchor-bloom-cafe-seattle-wa,"Anchor & Bloom Cafe - Seattle, WA | Your Girl Needs Coffee: The Map of ...","Anchor & Bloom Cafe in Seattle, Washington. Located at 2121 1st Ave Suite 105, Seattle, WA 98121. Rated 4.8 stars. Find hours, reviews, and directions.",,,0.741
+f70f92be4714,ddgs,error,,,,,,DDGSException: No results found.,0.06
+06a0f633b57e,ddgs,error,,,,,,DDGSException: No results found.,0.053
+92990cc64c9f,ddgs,error,,,,,,DDGSException: No results found.,0.06
+f040d51ab083,ddgs,error,,,,,,DDGSException: No results found.,0.047
+c21c1af971fb,ddgs,error,,,,,,DDGSException: No results found.,0.044
+3b28850b6792,ddgs,error,,,,,,DDGSException: No results found.,0.036
+c48cb8fa673e,ddgs,error,,,,,,DDGSException: No results found.,0.065
+8e6c1a89c5e9,ddgs,error,,,,,,DDGSException: No results found.,0.047
+d8a85bf33e4b,ddgs,error,,,,,,DDGSException: No results found.,0.052
+3df8ea88075b,ddgs,error,,,,,,DDGSException: No results found.,0.035
+4d119c374d34,ddgs,error,,,,,,DDGSException: No results found.,0.062
+ac6aa52ef01d,ddgs,error,,,,,,DDGSException: No results found.,0.066
+c3246bde2f59,ddgs,error,,,,,,DDGSException: No results found.,0.066
+8b88005647c5,ddgs,error,,,,,,DDGSException: No results found.,0.046
+102360d907e6,ddgs,error,,,,,,DDGSException: No results found.,0.054
+d6b0a0bf8770,ddgs,error,,,,,,DDGSException: No results found.,0.069
+ded9cbbb8a16,ddgs,error,,,,,,DDGSException: No results found.,0.051
+13065d88f2a1,ddgs,error,,,,,,DDGSException: No results found.,0.07
+968b6c4fb3fe,ddgs,error,,,,,,DDGSException: No results found.,0.034

@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+b1389fa3c47c,2026-11-06-r1,2026-11-06,coffee_shops,coffee_shop,"What is the official website of Anchor & Bloom, the coffee shop in Seattle?",website,natural,fresh,seattle
+f70f92be4714,2026-11-06-r1,2026-11-06,coffee_shops,coffee_shop,What is the street address of the coffee shop Sugar Bakery & Cafe in Seattle?,address,natural,fresh,seattle
+06a0f633b57e,2026-11-06-r1,2026-11-06,coffee_shops,coffee_shop,Which coffee shop is located at 1 Marlborough Court in London?,name,natural,stable,london
+92990cc64c9f,2026-11-06-r1,2026-11-06,coffee_shops,coffee_shop,What is the phone number for Die Löffelei on Potsdamer Straße in Berlin?,phone,natural,stable,berlin
+f040d51ab083,2026-11-06-r1,2026-11-06,coffee_shops,coffee_shop,What is the phone number for Coffee Star on Wörther Straße in Berlin?,phone,natural,stable,berlin
+c21c1af971fb,2026-11-06-r1,2026-11-06,coffee_shops,coffee_shop,"What is the official website of elixis, the coffee shop in London?",website,natural,stable,london
+3b28850b6792,2026-11-06-r1,2026-11-06,coffee_shops,coffee_shop,What is the street address of the coffee shop Notting Hill Coffee Project in London?,address,natural,stable,london
+c48cb8fa673e,2026-11-06-r1,2026-11-06,grocery_produce,grocery_store,What is the street address of the grocery store Franz Bakery Store in Seattle?,address,natural,fresh,seattle
+8e6c1a89c5e9,2026-11-06-r1,2026-11-06,grocery_produce,grocery_store,"What is the official website of District Market, the grocery store in Seattle?",website,natural,fresh,seattle
+d8a85bf33e4b,2026-11-06-r1,2026-11-06,grocery_produce,grocery_store,Which grocery store is located at 24-26 Goebenstraße in Berlin?,name,natural,stable,berlin
+3df8ea88075b,2026-11-06-r1,2026-11-06,grocery_produce,produce_market,What is the phone number for Sara Foods on Hereford Road in London?,phone,natural,stable,london
+4d119c374d34,2026-11-06-r1,2026-11-06,grocery_produce,grocery_store,What is the street address of the grocery store Marketime Foods in Seattle?,address,natural,stable,seattle
+ac6aa52ef01d,2026-11-06-r1,2026-11-06,grocery_produce,grocery_store,"What is the official website of Rice Wine Shop, the grocery store in London?",website,natural,stable,london
+c3246bde2f59,2026-11-06-r1,2026-11-06,grocery_produce,grocery_store,Which grocery store is located at 87 Westbourne Grove in London?,name,natural,stable,london
+8b88005647c5,2026-11-06-r1,2026-11-06,bike_trails,bike_path,"Is the Lawrence Street bike trail near Denver paved, gravel, or dirt?",surface,natural,fresh,denver
+102360d907e6,2026-11-06-r1,2026-11-06,bike_trails,bike_route,How long is the Royal Park to Docklands bike trail near Melbourne?,length,natural,fresh,melbourne
+d6b0a0bf8770,2026-11-06-r1,2026-11-06,bike_trails,bike_route,How long is the Camp Long Connection Neighborhood Greenway bike trail near Seattle?,length,natural,stable,seattle
+ded9cbbb8a16,2026-11-06-r1,2026-11-06,bike_trails,bike_path,"Is the Mile High Walk bike trail near Denver paved, gravel, or dirt?",surface,natural,stable,denver
+13065d88f2a1,2026-11-06-r1,2026-11-06,bike_trails,bike_route,How long is the Ascot Vale to CBD bike trail near Melbourne?,length,natural,stable,melbourne
+968b6c4fb3fe,2026-11-06-r1,2026-11-06,bike_trails,bike_route,How long is the Denver D6 bike trail near Denver?,length,natural,stable,denver

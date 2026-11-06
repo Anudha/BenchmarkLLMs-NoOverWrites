@@ -1,0 +1,12 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+8b88005647c5,nominatim,result,1,https://www.openstreetmap.org/way/1182413372,"Lawrence Street, Curtis Park, Five Points, Denver, Colorado, 80294, United States","Lawrence Street. Lawrence Street, Denver. Surface: asphalt",,,0.352
+8b88005647c5,nominatim,result,2,https://www.openstreetmap.org/way/231105095,"Lawrence Street, Arapahoe Square, Five Points, Denver, Colorado, 80294, United States","Lawrence Street. Lawrence Street, Denver",,,0.352
+8b88005647c5,nominatim,result,3,https://www.openstreetmap.org/way/121309483,"Lawrence Street, Arapahoe Square, Denver, Colorado, 80265, United States","Lawrence Street. Lawrence Street, Denver. Surface: asphalt",,,0.352
+8b88005647c5,nominatim,result,4,https://www.openstreetmap.org/way/124661427,"Lawrence Street, Theatre District, Denver, Colorado, 80217, United States","Lawrence Street. Lawrence Street, Denver. Surface: asphalt",,,0.352
+8b88005647c5,nominatim,result,5,https://www.openstreetmap.org/way/700245928,"Lawrence Street, Upper Downtown, Denver, Colorado, 80265, United States","Lawrence Street. Lawrence Street, Denver. Surface: asphalt",,,0.352
+ded9cbbb8a16,nominatim,result,1,https://www.openstreetmap.org/way/324065766,"Mile High Walk, Sun Valley, Denver, Colorado, 80204, United States","Mile High Walk. Mile High Walk, Denver. Surface: paved",,,0.296
+968b6c4fb3fe,nominatim,result,1,https://www.openstreetmap.org/way/433914699,"Denver Pavilions, 500, Denver, Colorado, 80202, United States","Denver Pavilions. 500 , Denver. Phone: +1-303-260-6001. Website: https://denverpavilions.com/",,,0.492
+968b6c4fb3fe,nominatim,result,2,https://www.openstreetmap.org/way/542850076,"Denver Water Happy Canyon Facility, Denver, Colorado, United States",Denver Water Happy Canyon Facility. Denver,,,0.492
+968b6c4fb3fe,nominatim,result,3,https://www.openstreetmap.org/way/1128266748,"Denver International Airport Maintenance Operations, Denver, Colorado, United States",Denver International Airport Maintenance Operations. Denver,,,0.492
+968b6c4fb3fe,nominatim,result,4,https://www.openstreetmap.org/way/810608785,"Denver Connection at Avion, Denver, Colorado, United States",Denver Connection at Avion. Denver,,,0.492
+968b6c4fb3fe,nominatim,result,5,https://www.openstreetmap.org/way/542512441,"Whispering Pines of Denver, 7755, Denver, Colorado, 80237, United States","Whispering Pines of Denver. 7755 , Denver",,,0.492
