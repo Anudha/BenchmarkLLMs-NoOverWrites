@@ -1,0 +1,25 @@
+query_id,engine,kind,rank,url,title,snippet,answer,error,latency_s
+23b31905d4e0,ddgs,result,1,https://www.mapquest.com/au/new-south-wales/la-herradura-524072226,"La Herradura, 6 Shepherd St Grafton Ln, Sydney, New South Wales 2008 ...","La Herradura is a Colombian café located in Sydney, New South Wales, known for its great food and service. The restaurant offers a range of dishes alongside a selection of sweets, making it a suitable spot for casual dining. Patrons can enjoy high-quality Colombian coffee, which is regarded as one of the highlights of the establishment. While the café receives positive feedback for its meals ...",,,0.959
+23b31905d4e0,ddgs,result,2,https://www.mapquest.com/au/new-south-wales/la-herradura-coffee-stable-795393393,"La Herradura Coffee Stable, 6 Shepherd St, Chippendale, NSW 2008, AU ...","Get more information for La Herradura Coffee Stable in Chippendale, NSW. See reviews, map, get the address, and find directions.",,,0.959
+23b31905d4e0,ddgs,result,3,https://www.findglocal.com/AU/Sydney/504592306590072/La-Herradura-Coffee-Stable,"La Herradura Coffee Stable, 6 Shepherd Street, Sydney (2025)",La Herradura Coffee Stable Open every Saturday and Sunday from8:30 to 3 pm and Monday to Friday 8 to 11 Claim ownership or report listing Account,,,0.959
+23b31905d4e0,ddgs,result,4,https://laherraduracoffeestable.com/,Home - La Herradura Coffee Stable,"Authentic Colombian street food, drinks, and desserts in one place. From tamales and arepas to Colombian coffee, juices, and sweet treats. Taste the flavours of Colombia in the heart of Sydney.",,,0.959
+23b31905d4e0,ddgs,result,5,https://www.instagram.com/la_herradura_coffee_stable/,La herradura coffee stable (@la_herradura_coffee_stable) - Instagram,"6,402 Followers, 542 Following, 627 Posts - La herradura coffee stable (@la_herradura_coffee_stable) on Instagram: ""Colombian Cafe and restaurant Tue-Fri 8am to 3pm Fri dinner 5pm to 9pm Sat 9:30am to 4:30pm Sun 9am to 3:30pm Sydney, AU.6 shepherd street 2008""",,,0.959
+f3f252f767a7,ddgs,error,,,,,,DDGSException: No results found.,0.093
+c9aa9979b03a,ddgs,error,,,,,,DDGSException: No results found.,0.139
+66829da1af8f,ddgs,error,,,,,,DDGSException: No results found.,0.144
+5a9def9fb0c6,ddgs,error,,,,,,DDGSException: No results found.,0.106
+91c214553881,ddgs,error,,,,,,DDGSException: No results found.,0.061
+d769d5f63765,ddgs,error,,,,,,DDGSException: No results found.,0.115
+c59d2f4640c6,ddgs,error,,,,,,DDGSException: No results found.,0.094
+5731ad465e05,ddgs,error,,,,,,DDGSException: No results found.,0.102
+8f37e2ce8211,ddgs,error,,,,,,DDGSException: No results found.,0.084
+0891e47b56f6,ddgs,error,,,,,,DDGSException: No results found.,0.097
+14f647bd3f49,ddgs,error,,,,,,DDGSException: No results found.,0.075
+2d20d6672b1f,ddgs,error,,,,,,DDGSException: No results found.,0.074
+ec72b3ea3f52,ddgs,error,,,,,,DDGSException: No results found.,0.063
+b4deb844ea3b,ddgs,error,,,,,,DDGSException: No results found.,0.075
+ebb06ba1e5c1,ddgs,error,,,,,,DDGSException: No results found.,0.075
+38b7f60e79e7,ddgs,error,,,,,,DDGSException: No results found.,0.073
+236757c11e03,ddgs,error,,,,,,DDGSException: No results found.,0.083
+fa88324cb707,ddgs,error,,,,,,DDGSException: No results found.,0.081
+5656b34dfc3f,ddgs,error,,,,,,DDGSException: No results found.,0.074

@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+23b31905d4e0,2026-11-07-r1,2026-11-07,coffee_shops,coffee_shop,Which coffee shop is located at 6 Shepherd Street in Sydney?,name,natural,fresh,sydney
+f3f252f767a7,2026-11-07-r1,2026-11-07,coffee_shops,coffee_shop,What is the phone number for Schönes Café on Dieffenbachstraße in Berlin?,phone,natural,fresh,berlin
+c9aa9979b03a,2026-11-07-r1,2026-11-07,coffee_shops,coffee_shop,What is the street address of the coffee shop What do you fancy love? in Berlin?,address,natural,stable,berlin
+66829da1af8f,2026-11-07-r1,2026-11-07,coffee_shops,coffee_shop,"What is the official website of LePopulaire, the coffee shop in Berlin?",website,natural,stable,berlin
+5a9def9fb0c6,2026-11-07-r1,2026-11-07,coffee_shops,coffee_shop,What is the street address of the coffee shop Jelly Cafe in Denver?,address,natural,stable,denver
+91c214553881,2026-11-07-r1,2026-11-07,coffee_shops,coffee_shop,What is the phone number for Guylian on George Street in Sydney?,phone,natural,stable,sydney
+d769d5f63765,2026-11-07-r1,2026-11-07,coffee_shops,coffee_shop,"What is the official website of Vibe Coffee & Wine, the coffee shop in Denver?",website,natural,stable,denver
+c59d2f4640c6,2026-11-07-r1,2026-11-07,grocery_produce,grocery_store,What is the street address of the grocery store People's Food Co-op in Portland?,address,natural,fresh,portland
+5731ad465e05,2026-11-07-r1,2026-11-07,grocery_produce,grocery_store,What is the phone number for Great Wall Supermarket on West Alameda Avenue in Denver?,phone,natural,fresh,denver
+8f37e2ce8211,2026-11-07-r1,2026-11-07,grocery_produce,grocery_store,"What is the official website of Kraut & Rüben, the grocery store in Berlin?",website,natural,stable,berlin
+0891e47b56f6,2026-11-07-r1,2026-11-07,grocery_produce,grocery_store,Which grocery store is located at 80c Greifswalder Straße in Berlin?,name,natural,stable,berlin
+14f647bd3f49,2026-11-07-r1,2026-11-07,grocery_produce,farm_stand,Which farm stand is located at 7701 Crenshaw Boulevard in Los Angeles?,name,natural,stable,los_angeles
+2d20d6672b1f,2026-11-07-r1,2026-11-07,grocery_produce,produce_market,"What is the official website of Providore Fine Foods, the produce market in Portland?",website,natural,stable,portland
+ec72b3ea3f52,2026-11-07-r1,2026-11-07,bike_trails,bike_path,"Is the 18th Street bike trail near Denver paved, gravel, or dirt?",surface,natural,fresh,denver
+b4deb844ea3b,2026-11-07-r1,2026-11-07,bike_trails,bike_path,How long is the Beaverton-Hillsdale Bikeway bike trail near Portland?,length,natural,fresh,portland
+ebb06ba1e5c1,2026-11-07-r1,2026-11-07,bike_trails,bike_route,How long is the MCG & surrounds bike trail near Melbourne?,length,natural,stable,melbourne
+38b7f60e79e7,2026-11-07-r1,2026-11-07,bike_trails,bike_route,What is the official website for the 40 Mile Loop bike trail near Portland?,website,natural,stable,portland
+236757c11e03,2026-11-07-r1,2026-11-07,bike_trails,bike_route,How long is the United States Highway 26 (Oregon Bicycle alternative) bike trail near Portland?,length,natural,stable,portland
+fa88324cb707,2026-11-07-r1,2026-11-07,bike_trails,bike_route,How long is the Barrington bike trail near Los Angeles?,length,natural,stable,los_angeles
+5656b34dfc3f,2026-11-07-r1,2026-11-07,bike_trails,bike_route,Which organization operates or maintains the Mascot / Botany - Green Square - City bike trail near Sydney?,operator,natural,stable,sydney
