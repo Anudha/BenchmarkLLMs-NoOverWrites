@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+46bf352c942d,2026-11-08-r1,2026-11-08,coffee_shops,coffee_shop,Which coffee shop is located at 1014 Madison Street in Seattle?,name,natural,fresh,seattle
+f6dc136c875a,2026-11-08-r1,2026-11-08,coffee_shops,coffee_shop,What is the street address of the coffee shop de Volkslust in Amsterdam?,address,natural,fresh,amsterdam
+fd3a2131d5b8,2026-11-08-r1,2026-11-08,coffee_shops,coffee_shop,"What is the official website of Vital Creations Vegan Cafe, the coffee shop in Seattle?",website,natural,stable,seattle
+28d1d388228d,2026-11-08-r1,2026-11-08,coffee_shops,coffee_shop,What is the phone number for Pilates + Coffee on West Roscoe Street in Chicago?,phone,natural,stable,chicago
+894fbe00b5a1,2026-11-08-r1,2026-11-08,coffee_shops,coffee_shop,Which coffee shop is located at 1021 Alpine Street in Los Angeles?,name,natural,stable,los_angeles
+65418f7adf45,2026-11-08-r1,2026-11-08,coffee_shops,coffee_shop,What is the street address of the coffee shop Clock Tower Cafe in Chicago?,address,natural,stable,chicago
+b81838771013,2026-11-08-r1,2026-11-08,coffee_shops,coffee_shop,"What is the official website of Star Lounge Coffee Bar, the coffee shop in Chicago?",website,natural,stable,chicago
+6477822145d8,2026-11-08-r1,2026-11-08,grocery_produce,grocery_store,What is the phone number for JONS Marketplace on West 8th Street in Los Angeles?,phone,natural,fresh,los_angeles
+2ea332dbe1d0,2026-11-08-r1,2026-11-08,grocery_produce,grocery_store,What is the street address of the grocery store Harvest Loop in Chicago?,address,natural,fresh,chicago
+700ccf2f8dfe,2026-11-08-r1,2026-11-08,grocery_produce,grocery_store,Which grocery store is located at 276-H Albert Cuypstraat in Amsterdam?,name,natural,stable,amsterdam
+54d2fcc48213,2026-11-08-r1,2026-11-08,grocery_produce,grocery_store,"What is the official website of Joong Boo Market, the grocery store in Chicago?",website,natural,stable,chicago
+76ca663bb866,2026-11-08-r1,2026-11-08,grocery_produce,grocery_store,Which grocery store is located at 267 Albert Cuypstraat in Amsterdam?,name,natural,stable,amsterdam
+cbc7c2a159c5,2026-11-08-r1,2026-11-08,grocery_produce,grocery_store,What is the street address of the grocery store The Butcherie in Brookline?,address,natural,stable,boston
+287954becc87,2026-11-08-r1,2026-11-08,grocery_produce,farm_stand,"What is the official website of Lincoln Square Farmers Market, the farm stand in Chicago?",website,natural,stable,chicago
+2d8622694119,2026-11-08-r1,2026-11-08,bike_trails,bike_path,How long is the Meeuwenlaan bike trail near Amsterdam?,length,natural,fresh,amsterdam
+7ed840a6e934,2026-11-08-r1,2026-11-08,bike_trails,bike_route,How long is the Independence Boulevard bike trail near Chicago?,length,natural,fresh,chicago
+25a5bc4f962d,2026-11-08-r1,2026-11-08,bike_trails,bike_path,"Is the Harrison Street Bikeway bike trail near Chicago paved, gravel, or dirt?",surface,natural,stable,chicago
+ddca56c3a59c,2026-11-08-r1,2026-11-08,bike_trails,bike_route,How long is the Homestead / Hedding / Brokaw Corridor bike trail near San Jose?,length,natural,stable,san_jose
+35bf8de8a8b1,2026-11-08-r1,2026-11-08,bike_trails,bike_route,How long is the East Boston Greenway bike trail near Boston?,length,natural,stable,boston
+7e66f77b3a7e,2026-11-08-r1,2026-11-08,bike_trails,bike_path,"Is the Lake Hollywood Drive bike trail near Los Angeles paved, gravel, or dirt?",surface,natural,stable,los_angeles
