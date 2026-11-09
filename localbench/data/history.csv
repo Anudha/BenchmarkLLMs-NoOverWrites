@@ -106,3 +106,8 @@ run_id,date,evaluated_at,engine,vertical,n,errors,recall_at_k,mrr_at_k,answer_ac
 2026-11-08-r1,2026-11-08,2026-11-08T15:07:31Z,nominatim,bike_trails,6,,0.3333,0.2083,
 2026-11-08-r1,2026-11-08,2026-11-08T15:07:31Z,nominatim,coffee_shops,7,,0.0,0.0,
 2026-11-08-r1,2026-11-08,2026-11-08T15:07:31Z,nominatim,grocery_produce,7,,0.0,0.0,
+2026-11-09-r1,2026-11-09,2026-11-09T18:22:22Z,ddgs,all,0,20,,,
+2026-11-09-r1,2026-11-09,2026-11-09T18:23:03Z,nominatim,all,20,0,0.1,0.075,
+2026-11-09-r1,2026-11-09,2026-11-09T18:23:03Z,nominatim,bike_trails,6,,0.3333,0.25,
+2026-11-09-r1,2026-11-09,2026-11-09T18:23:03Z,nominatim,coffee_shops,7,,0.0,0.0,
+2026-11-09-r1,2026-11-09,2026-11-09T18:23:03Z,nominatim,grocery_produce,7,,0.0,0.0,

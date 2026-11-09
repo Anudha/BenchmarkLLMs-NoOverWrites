@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+fedc3970a621,2026-11-09-r1,2026-11-09,coffee_shops,coffee_shop,Which coffee shop is located at 1 South Broadway in Denver?,name,natural,fresh,denver
+dd307a7abc17,2026-11-09-r1,2026-11-09,coffee_shops,coffee_shop,What is the street address of the coffee shop Ethica coffee roasters in Toronto?,address,natural,fresh,toronto
+fec105a77c40,2026-11-09-r1,2026-11-09,coffee_shops,coffee_shop,"What is the official website of OnePound, the coffee shop in Toronto?",website,natural,stable,toronto
+28a7214c6122,2026-11-09-r1,2026-11-09,coffee_shops,coffee_shop,"What is the official website of Ben and Esther's Vegan Delicatessen, the coffee shop in Portland?",website,natural,stable,portland
+273ed5f1a3a2,2026-11-09-r1,2026-11-09,coffee_shops,coffee_shop,What is the phone number for brwd / KINN on Hongkong Street in Singapore?,phone,natural,stable,singapore
+b8a34e6d3722,2026-11-09-r1,2026-11-09,coffee_shops,coffee_shop,What is the phone number for Port Side on Larimer Street in Denver?,phone,natural,stable,denver
+975e46aabff7,2026-11-09-r1,2026-11-09,coffee_shops,coffee_shop,Which coffee shop is located at 2795 Speer Boulevard in Denver?,name,natural,stable,denver
+a095fa73de38,2026-11-09-r1,2026-11-09,grocery_produce,grocery_store,What is the phone number for Great Wall Supermarket on West Alameda Avenue in Denver?,phone,natural,fresh,denver
+4f93a738aa51,2026-11-09-r1,2026-11-09,grocery_produce,grocery_store,Which grocery store is located at 1076 South Federal Boulevard in Denver?,name,natural,fresh,denver
+48245d1af4c4,2026-11-09-r1,2026-11-09,grocery_produce,grocery_store,What is the street address of the grocery store Creeds in Toronto?,address,natural,stable,toronto
+c4628712512b,2026-11-09-r1,2026-11-09,grocery_produce,grocery_store,"What is the official website of Natural Foods, the grocery store in Toronto?",website,natural,stable,toronto
+79420052e7ec,2026-11-09-r1,2026-11-09,grocery_produce,grocery_store,What is the street address of the grocery store Summerhill Market in Toronto?,address,natural,stable,toronto
+82db3ad6d183,2026-11-09-r1,2026-11-09,grocery_produce,produce_market,What is the phone number for Rahim Grocery Traders on Upper Dickson Road in Singapore?,phone,natural,stable,singapore
+3de564979736,2026-11-09-r1,2026-11-09,grocery_produce,grocery_store,Which grocery store is located at 3340 Downing Street in Denver?,name,natural,stable,denver
+513c34cef055,2026-11-09-r1,2026-11-09,bike_trails,bike_path,"Is the Beaverton-Hillsdale Bikeway bike trail near Portland paved, gravel, or dirt?",surface,natural,fresh,portland
+0f3f93c3da02,2026-11-09-r1,2026-11-09,bike_trails,bike_route,How long is the Montague/San Tomas Expressway bike trail near San Jose?,length,natural,fresh,san_jose
+a2ac8a949ab6,2026-11-09-r1,2026-11-09,bike_trails,bike_path,How long is the Ravine Beltline Trail bike trail near Toronto?,length,natural,stable,toronto
+8a716dd6587e,2026-11-09-r1,2026-11-09,bike_trails,bike_route,How long is the 20s Bikeway bike trail near Portland?,length,natural,stable,portland
+96e3a3dbd565,2026-11-09-r1,2026-11-09,bike_trails,bike_path,"Is the Marconi Drive Bike Path bike trail near New Orleans paved, gravel, or dirt?",surface,natural,stable,new_orleans
+7d2fa79f8abc,2026-11-09-r1,2026-11-09,bike_trails,bike_route,How long is the Denison-Bellevue bike trail near Toronto?,length,natural,stable,toronto
