@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+30cac713992d,2026-11-10-r1,2026-11-10,coffee_shops,coffee_shop,Which coffee shop is located at 53-H Elandsgracht in Amsterdam?,name,natural,fresh,amsterdam
+0f6b8b7e021b,2026-11-10-r1,2026-11-10,coffee_shops,coffee_shop,What is the street address of the coffee shop ELA Restobar in Amsterdam?,address,natural,fresh,amsterdam
+2ce5737b00b2,2026-11-10-r1,2026-11-10,coffee_shops,coffee_shop,"What is the official website of De Wasserette, the coffee shop in Amsterdam?",website,natural,stable,amsterdam
+d2d522c83b1f,2026-11-10-r1,2026-11-10,coffee_shops,coffee_shop,What is the phone number for Ample Cafe on Arden Street in Melbourne?,phone,natural,stable,melbourne
+c822210df77d,2026-11-10-r1,2026-11-10,coffee_shops,coffee_shop,"What is the official website of Stagger Lee's, the coffee shop in Melbourne?",website,natural,stable,melbourne
+1fbb9315c920,2026-11-10-r1,2026-11-10,coffee_shops,coffee_shop,Which coffee shop is located at 320 Exchange Place in New Orleans?,name,natural,stable,new_orleans
+5f6cec52bcfe,2026-11-10-r1,2026-11-10,coffee_shops,coffee_shop,What is the street address of the coffee shop Bar Noun in Sydney?,address,natural,stable,sydney
+835a30f61445,2026-11-10-r1,2026-11-10,grocery_produce,grocery_store,What is the street address of the grocery store Kosher Point in Amsterdam?,address,natural,stable,amsterdam
+ca61ecde1bb9,2026-11-10-r1,2026-11-10,grocery_produce,grocery_store,Which grocery store is located at 541 Bermuda Street in New Orleans?,name,natural,stable,new_orleans
+409a823e4129,2026-11-10-r1,2026-11-10,grocery_produce,grocery_store,"What is the official website of Greens Supermarket, the grocery store in Sydney?",website,natural,stable,sydney
+fe8b217a5963,2026-11-10-r1,2026-11-10,grocery_produce,grocery_store,What is the phone number for C&C Asian Market on Albert Cuypstraat in Amsterdam?,phone,natural,stable,amsterdam
+29b097203a6e,2026-11-10-r1,2026-11-10,grocery_produce,grocery_store,What is the street address of the grocery store Langenstein's Grocery in New Orleans?,address,natural,stable,new_orleans
+04c378939361,2026-11-10-r1,2026-11-10,grocery_produce,grocery_store,What is the phone number for Organic Wholefoods on Smith Street in Melbourne?,phone,natural,stable,melbourne
+c5281cb9a30a,2026-11-10-r1,2026-11-10,bike_trails,bike_path,How long is the Meeuwenlaan bike trail near Amsterdam?,length,natural,fresh,amsterdam
+fcc9c3131d73,2026-11-10-r1,2026-11-10,bike_trails,bike_route,Which bike trail runs from city to Concord near Sydney?,name,natural,fresh,sydney
+566c3a90d52c,2026-11-10-r1,2026-11-10,bike_trails,bike_route,How long is the Capital City Trail bike trail near Melbourne?,length,natural,stable,melbourne
+c0450b10d175,2026-11-10-r1,2026-11-10,bike_trails,bike_path,"Is the Piet Heinkade bike trail near Amsterdam paved, gravel, or dirt?",surface,natural,stable,amsterdam
+b1be551e4196,2026-11-10-r1,2026-11-10,bike_trails,bike_route,Which organization operates or maintains the Burton & Glenmore bike trail near Sydney?,operator,natural,stable,sydney
+6a41650a4424,2026-11-10-r1,2026-11-10,bike_trails,bike_path,"Is the Moore Park Road and Fitzroy Street Pop-Up Cycleway bike trail near Sydney paved, gravel, or dirt?",surface,natural,stable,sydney
+05d06c43abe5,2026-11-10-r1,2026-11-10,bike_trails,bike_route,How long is the Coyote Creek Trail bike trail near San Jose?,length,natural,stable,san_jose
