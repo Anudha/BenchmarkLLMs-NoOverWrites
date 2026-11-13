@@ -59,3 +59,6 @@ run_id,date,vertical,n_queries,n_fresh,pool_stable,pool_fresh,fields,cities
 2026-11-10-r1,2026-11-10,coffee_shops,7,2,467,8,address:2;name:2;phone:1;website:2,melbourne;boston;san_jose;new_orleans;sydney;amsterdam
 2026-11-10-r1,2026-11-10,grocery_produce,6,0,38,0,address:2;name:1;phone:2;website:1,melbourne;boston;san_jose;new_orleans;sydney;amsterdam
 2026-11-10-r1,2026-11-10,bike_trails,7,2,177,28,length:3;name:1;operator:1;surface:2,melbourne;boston;san_jose;new_orleans;sydney;amsterdam
+2026-11-13-r1,2026-11-13,coffee_shops,7,2,775,47,address:2;name:1;phone:2;website:2,london;philadelphia;austin;dublin;melbourne;denver
+2026-11-13-r1,2026-11-13,grocery_produce,7,2,92,5,address:2;name:2;phone:1;website:2,london;philadelphia;austin;dublin;melbourne;denver
+2026-11-13-r1,2026-11-13,bike_trails,6,2,136,30,length:3;name:1;surface:2,london;philadelphia;austin;dublin;melbourne;denver

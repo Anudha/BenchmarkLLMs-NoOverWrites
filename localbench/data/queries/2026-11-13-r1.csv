@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+9ac6def7db29,2026-11-13-r1,2026-11-13,coffee_shops,coffee_shop,What is the phone number for Half Cup on Judd Street in London?,phone,natural,fresh,london
+cfdf03a7094b,2026-11-13-r1,2026-11-13,coffee_shops,coffee_shop,Which coffee shop is located at 160 Drury Lane in London?,name,natural,fresh,london
+683be839273c,2026-11-13-r1,2026-11-13,coffee_shops,coffee_shop,"What is the official website of Café Deco, the coffee shop in London?",website,natural,stable,london
+4e3d392b1205,2026-11-13-r1,2026-11-13,coffee_shops,coffee_shop,What is the street address of the coffee shop Top Hat Coffee Lounge in Philadelphia?,address,natural,stable,philadelphia
+9546f29ba65f,2026-11-13-r1,2026-11-13,coffee_shops,coffee_shop,"What is the official website of All Is Well, the coffee shop in Denver?",website,natural,stable,denver
+b4a3328b79cf,2026-11-13-r1,2026-11-13,coffee_shops,coffee_shop,What is the phone number for Black Cat on Brunswick Street in Melbourne?,phone,natural,stable,melbourne
+f25ad0d78c4d,2026-11-13-r1,2026-11-13,coffee_shops,coffee_shop,What is the street address of the coffee shop Rivers and Roads Coffee in Denver?,address,natural,stable,denver
+a58666d372bd,2026-11-13-r1,2026-11-13,grocery_produce,grocery_store,What is the street address of the grocery store The Grocery in London?,address,natural,fresh,london
+73dc6726aa5d,2026-11-13-r1,2026-11-13,grocery_produce,grocery_store,"What is the official website of Los Dos Toros, the grocery store in Denver?",website,natural,fresh,denver
+6188d469f181,2026-11-13-r1,2026-11-13,grocery_produce,produce_market,Which produce market is located at 52 Parkway in London?,name,natural,stable,london
+671ef111b27b,2026-11-13-r1,2026-11-13,grocery_produce,produce_market,What is the phone number for Sara Foods on Hereford Road in London?,phone,natural,stable,london
+44be97af0ca9,2026-11-13-r1,2026-11-13,grocery_produce,grocery_store,Which grocery store is located at 277 Smith Street in Melbourne?,name,natural,stable,melbourne
+0dee5a142798,2026-11-13-r1,2026-11-13,grocery_produce,produce_market,"What is the official website of Luen Fong Food & Produce Inc., the produce market in Philadelphia?",website,natural,stable,philadelphia
+01a78608998b,2026-11-13-r1,2026-11-13,grocery_produce,grocery_store,What is the street address of the grocery store Supremo Foodmarket in Philadelphia?,address,natural,stable,philadelphia
+ab96014069c1,2026-11-13-r1,2026-11-13,bike_trails,bike_path,"Is the 18th Street bike trail near Denver paved, gravel, or dirt?",surface,natural,fresh,denver
+f277ef4e3d0b,2026-11-13-r1,2026-11-13,bike_trails,bike_route,How long is the Camden Greenway bike trail near Philadelphia?,length,natural,fresh,philadelphia
+53cacd83a72c,2026-11-13-r1,2026-11-13,bike_trails,bike_route,How long is the Capital City Trail bike trail near Melbourne?,length,natural,stable,melbourne
+6545068cc38d,2026-11-13-r1,2026-11-13,bike_trails,bike_route,How long is the Denver D4 bike trail near Denver?,length,natural,stable,denver
+84e6f95c40b3,2026-11-13-r1,2026-11-13,bike_trails,bike_path,"Is the Platte River Trail bike trail near Denver paved, gravel, or dirt?",surface,natural,stable,denver
+ac7fa98adbe2,2026-11-13-r1,2026-11-13,bike_trails,bike_route,Which bike trail runs from London Fields to Queen Elizabeth Olympic Park near London?,name,natural,stable,london
