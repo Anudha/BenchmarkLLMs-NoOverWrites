@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+be1bc6d15abb,2026-11-14-r1,2026-11-14,coffee_shops,coffee_shop,"What is the official website of Cypress Bend Cafe, the coffee shop in Austin?",website,natural,fresh,austin
+514798fc7cf0,2026-11-14-r1,2026-11-14,coffee_shops,coffee_shop,What is the street address of the coffee shop Velo Coffee in Los Angeles?,address,natural,fresh,los_angeles
+1456a787b499,2026-11-14-r1,2026-11-14,coffee_shops,coffee_shop,What is the phone number for Ceremonia Bakeshop on Driggs Avenue in Brooklyn?,phone,natural,stable,new_york
+928bfb821cdc,2026-11-14-r1,2026-11-14,coffee_shops,coffee_shop,Which coffee shop is located at 241 East 10th Street in New York?,name,natural,stable,new_york
+6c70b2b96252,2026-11-14-r1,2026-11-14,coffee_shops,coffee_shop,What is the street address of the coffee shop Books n‘ cup in New York?,address,natural,stable,new_york
+5eeb2da822f7,2026-11-14-r1,2026-11-14,coffee_shops,coffee_shop,What is the phone number for YUMIAO cat cafe on O'Dea Avenue in Sydney?,phone,natural,stable,sydney
+ff745557bd04,2026-11-14-r1,2026-11-14,grocery_produce,grocery_store,What is the street address of the grocery store The Grocery in London?,address,natural,fresh,london
+1e8b276517b2,2026-11-14-r1,2026-11-14,grocery_produce,grocery_store,"What is the official website of JONS Marketplace, the grocery store in Los Angeles?",website,natural,fresh,los_angeles
+8f822bde437d,2026-11-14-r1,2026-11-14,grocery_produce,grocery_store,Which grocery store is located at 1870 West Washington Boulevard in Los Angeles?,name,natural,stable,los_angeles
+8fc9e595b71a,2026-11-14-r1,2026-11-14,grocery_produce,grocery_store,What is the phone number for Ozzie's Fresh Market on Fort Washington Avenue in New York?,phone,natural,stable,new_york
+b91a238c7095,2026-11-14-r1,2026-11-14,grocery_produce,grocery_store,Which grocery store is located at 3000 N Broadway in Los Angeles?,name,natural,stable,los_angeles
+123e16833783,2026-11-14-r1,2026-11-14,grocery_produce,grocery_store,What is the street address of the grocery store Rice Wine Shop in London?,address,natural,stable,london
+bf7ffc7a0d9b,2026-11-14-r1,2026-11-14,grocery_produce,grocery_store,"What is the official website of Prezzemolo & Vitale, the grocery store in London?",website,natural,stable,london
+856e8c679149,2026-11-14-r1,2026-11-14,bike_trails,bike_path,Which organization operates or maintains the Gray's Inn Road bike trail near London?,operator,natural,fresh,london
+97e397fadce6,2026-11-14-r1,2026-11-14,bike_trails,bike_route,How long is the Astoria bike trail near New York?,length,natural,fresh,new_york
+e799f02bc9e3,2026-11-14-r1,2026-11-14,bike_trails,bike_route,How long is the Sherman Avenue bike trail near New York?,length,natural,stable,new_york
+555bdbbd20dc,2026-11-14-r1,2026-11-14,bike_trails,bike_route,Which bike trail runs from 29th Strret to Roosevelt Island near New York?,name,natural,stable,new_york
+117e1d93151b,2026-11-14-r1,2026-11-14,bike_trails,bike_route,Which organization operates or maintains the Henderson Road bike trail near Sydney?,operator,natural,stable,sydney
+8f7f3ef7b6da,2026-11-14-r1,2026-11-14,bike_trails,bike_route,How long is the Bayview Cycle Path bike trail near Toronto?,length,natural,stable,toronto
+5f37b894484b,2026-11-14-r1,2026-11-14,bike_trails,bike_route,How long is the Martin Goodman Trail bike trail near Toronto?,length,natural,stable,toronto
