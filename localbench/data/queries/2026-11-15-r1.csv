@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+ea6e593186c1,2026-11-15-r1,2026-11-15,coffee_shops,coffee_shop,What is the street address of the coffee shop White Noise Coffee Co. in New York?,address,natural,fresh,new_york
+2776f859f99f,2026-11-15-r1,2026-11-15,coffee_shops,coffee_shop,Which coffee shop is located at 6 Orchard Place in London?,name,natural,fresh,london
+f211227719df,2026-11-15-r1,2026-11-15,coffee_shops,coffee_shop,"What is the official website of Jozi Brunch Pantheon, the coffee shop in Paris?",website,natural,stable,paris
+2e7ef71c0bf7,2026-11-15-r1,2026-11-15,coffee_shops,coffee_shop,What is the phone number for Mehmet Efendi 1953 on Edgware Road in London?,phone,natural,stable,london
+cb5e7d028bf9,2026-11-15-r1,2026-11-15,coffee_shops,coffee_shop,What is the phone number for The Crossbar on West 86th Street in New York?,phone,natural,stable,new_york
+4133b2880481,2026-11-15-r1,2026-11-15,coffee_shops,coffee_shop,"What is the official website of Emerald Cafe, the coffee shop in Brooklyn?",website,natural,stable,new_york
+2fc0cf0c8b9b,2026-11-15-r1,2026-11-15,coffee_shops,coffee_shop,Which coffee shop is located at 55 bis Rue des Francs Bourgeois in Paris?,name,natural,stable,paris
+5a3af46b4dc2,2026-11-15-r1,2026-11-15,grocery_produce,grocery_store,Which grocery store is located at 3334 West 8th Street in Los Angeles?,name,natural,fresh,los_angeles
+e33f0a60cd9a,2026-11-15-r1,2026-11-15,grocery_produce,grocery_store,What is the street address of the grocery store Galleria Market in Los Angeles?,address,natural,fresh,los_angeles
+a2d079929a21,2026-11-15-r1,2026-11-15,grocery_produce,grocery_store,What is the phone number for Ai Fuji on 6th Avenue in New York?,phone,natural,stable,new_york
+78840220bbde,2026-11-15-r1,2026-11-15,grocery_produce,grocery_store,"What is the official website of Westerly Natural Market, the grocery store in New York?",website,natural,stable,new_york
+785672226140,2026-11-15-r1,2026-11-15,grocery_produce,grocery_store,"What is the official website of 4th Street Food Co-Op, the grocery store in New York?",website,natural,stable,new_york
+b911c059ad15,2026-11-15-r1,2026-11-15,grocery_produce,grocery_store,What is the street address of the grocery store Cheaper Buy Miles in Melbourne?,address,natural,stable,melbourne
+35a0e6914f8e,2026-11-15-r1,2026-11-15,bike_trails,bike_path,"Is the Fort Washington Park Greenway bike trail near New York paved, gravel, or dirt?",surface,natural,fresh,new_york
+e72daa5d7a5e,2026-11-15-r1,2026-11-15,bike_trails,bike_route,How long is the Swanston St: west side bike trail near Melbourne?,length,natural,fresh,melbourne
+d4676276e279,2026-11-15-r1,2026-11-15,bike_trails,bike_path,"Is the Lower Don Recreational Trail bike trail near Toronto paved, gravel, or dirt?",surface,natural,stable,toronto
+49a6c38417f0,2026-11-15-r1,2026-11-15,bike_trails,bike_route,How long is the 138th Street bike trail near New York?,length,natural,stable,new_york
+24d65a5d15cf,2026-11-15-r1,2026-11-15,bike_trails,bike_route,How long is the Wards Island Greenway bike trail near New York?,length,natural,stable,new_york
+1bf4e355a23b,2026-11-15-r1,2026-11-15,bike_trails,bike_route,Which bike trail runs from Porte de Vanves to Porte de Clichy / Porte de St Ouen near Paris?,name,natural,stable,paris
+0c8236dc1f51,2026-11-15-r1,2026-11-15,bike_trails,bike_route,How long is the Canning Street bike trail near Melbourne?,length,natural,stable,melbourne
