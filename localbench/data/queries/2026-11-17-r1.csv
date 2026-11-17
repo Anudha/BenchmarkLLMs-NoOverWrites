@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+811e1e205248,2026-11-17-r1,2026-11-17,coffee_shops,coffee_shop,Which coffee shop is located at 1 Geffrye Street in London?,name,natural,fresh,london
+5569b947080f,2026-11-17-r1,2026-11-17,coffee_shops,coffee_shop,What is the phone number for Champignon Café on Madison Avenue in New York?,phone,natural,fresh,new_york
+b62be539323d,2026-11-17-r1,2026-11-17,coffee_shops,coffee_shop,"What is the official website of Markus Coffee Co Ltd, the coffee shop in London?",website,natural,stable,london
+3ec888606ade,2026-11-17-r1,2026-11-17,coffee_shops,coffee_shop,What is the street address of the coffee shop The Common E2 in London?,address,natural,stable,london
+5b5f6bf269f3,2026-11-17-r1,2026-11-17,coffee_shops,coffee_shop,What is the phone number for SOMA chocolatemaker on King Street West in Toronto?,phone,natural,stable,toronto
+8bb4e71c36c6,2026-11-17-r1,2026-11-17,coffee_shops,coffee_shop,Which coffee shop is located at 85 Debevoise Avenue in New York?,name,natural,stable,new_york
+692e436b069c,2026-11-17-r1,2026-11-17,coffee_shops,coffee_shop,"What is the official website of West China Tea House, the coffee shop in Austin?",website,natural,stable,austin
+d0b6dc36261c,2026-11-17-r1,2026-11-17,grocery_produce,grocery_store,"What is the official website of Superfresh, the grocery store in Sunnyside?",website,natural,fresh,new_york
+8f9ec12da41d,2026-11-17-r1,2026-11-17,grocery_produce,grocery_store,Which grocery store is located at 47-11 Queens Boulevard in New York?,name,natural,fresh,new_york
+608fb1f5925d,2026-11-17-r1,2026-11-17,grocery_produce,grocery_store,What is the phone number for Partridges on Gloucester Road in London?,phone,natural,stable,london
+7c2025460ccb,2026-11-17-r1,2026-11-17,grocery_produce,produce_market,What is the street address of the produce market Karma Food Cooperative in Toronto?,address,natural,stable,toronto
+f3681de3d688,2026-11-17-r1,2026-11-17,grocery_produce,grocery_store,"What is the official website of Kalustyan's, the grocery store in New York?",website,natural,stable,new_york
+02ba47d31a5e,2026-11-17-r1,2026-11-17,grocery_produce,grocery_store,What is the street address of the grocery store Kibo Market in Toronto?,address,natural,stable,toronto
+0da3d12fa78c,2026-11-17-r1,2026-11-17,grocery_produce,grocery_store,What is the phone number for Parsian Fine Foods on Queen Street East in Toronto?,phone,natural,stable,toronto
+932856881c50,2026-11-17-r1,2026-11-17,bike_trails,bike_route,How long is the Manhattan West Side Bike Path bike trail near New York?,length,natural,fresh,new_york
+95e3c3e2b902,2026-11-17-r1,2026-11-17,bike_trails,bike_route,How long is the Bloor bike trail near Toronto?,length,natural,fresh,toronto
+176a7b2b75b0,2026-11-17-r1,2026-11-17,bike_trails,bike_route,How long is the Evergreen Avenue bike trail near New York?,length,natural,stable,new_york
+aeb4f06a4b08,2026-11-17-r1,2026-11-17,bike_trails,bike_path,"Is the Riverside Park South Bike Path bike trail near New York paved, gravel, or dirt?",surface,natural,stable,new_york
+151424ce0811,2026-11-17-r1,2026-11-17,bike_trails,bike_route,How long is the The Boardwalk at Lady Bird Lake bike trail near Austin?,length,natural,stable,austin
+cd62a58b2a78,2026-11-17-r1,2026-11-17,bike_trails,bike_route,How long is the LCN 3 bike trail near London?,length,natural,stable,london
