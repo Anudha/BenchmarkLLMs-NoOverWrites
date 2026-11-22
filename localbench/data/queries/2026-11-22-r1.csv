@@ -1,0 +1,21 @@
+query_id,run_id,date,vertical,category,query,field,style,bucket,city
+c01df1f4f23f,2026-11-22-r1,2026-11-22,coffee_shops,coffee_shop,Which coffee shop is located at 905 8th Avenue in Seattle?,name,natural,fresh,seattle
+f10ef325102c,2026-11-22-r1,2026-11-22,coffee_shops,coffee_shop,"What is the official website of Rendezvous Cafe, the coffee shop in Denver?",website,natural,fresh,denver
+db12f09c5277,2026-11-22-r1,2026-11-22,coffee_shops,coffee_shop,What is the street address of the coffee shop Homage Coffee in Seattle?,address,natural,stable,seattle
+cb42c32baca6,2026-11-22-r1,2026-11-22,coffee_shops,coffee_shop,What is the phone number for Musette Rittenhouse on South 20th Street in Philadelphia?,phone,natural,stable,philadelphia
+8806e2fd2dfe,2026-11-22-r1,2026-11-22,coffee_shops,coffee_shop,Which coffee shop is located at 1000 Pine Street in Philadelphia?,name,natural,stable,philadelphia
+65665df0e595,2026-11-22-r1,2026-11-22,coffee_shops,coffee_shop,What is the phone number for The Ugly Mug on Northeast 43rd Street in Seattle?,phone,natural,stable,seattle
+f3fcaccdfbc6,2026-11-22-r1,2026-11-22,coffee_shops,coffee_shop,"What is the official website of The Dragonfly Coffee House, the coffee shop in Portland?",website,natural,stable,portland
+c093ef1ff7a2,2026-11-22-r1,2026-11-22,grocery_produce,grocery_store,"What is the official website of Los Dos Toros, the grocery store in Denver?",website,natural,fresh,denver
+e403aee0cf09,2026-11-22-r1,2026-11-22,grocery_produce,grocery_store,What is the phone number for Lam's Seafood Market on South King Street in Seattle?,phone,natural,fresh,seattle
+ba6e11cc2277,2026-11-22-r1,2026-11-22,grocery_produce,grocery_store,Which grocery store is located at 2372 Saint Claude Avenue in New Orleans?,name,natural,stable,new_orleans
+cee4561f8f7a,2026-11-22-r1,2026-11-22,grocery_produce,grocery_store,What is the street address of the grocery store Stadsmarkt De Pijp in Amsterdam?,address,natural,stable,amsterdam
+91c8e4bf59ee,2026-11-22-r1,2026-11-22,grocery_produce,grocery_store,What is the street address of the grocery store Makkah Market in Philadelphia?,address,natural,stable,philadelphia
+c8270753cde1,2026-11-22-r1,2026-11-22,grocery_produce,grocery_store,"What is the official website of Amazing Oriental, the grocery store in Amsterdam?",website,natural,stable,amsterdam
+f533210475f1,2026-11-22-r1,2026-11-22,grocery_produce,grocery_store,Which grocery store is located at 1320 South Federal Boulevard in Denver?,name,natural,stable,denver
+2bafbac06df1,2026-11-22-r1,2026-11-22,bike_trails,bike_route,How long is the Wedgewood to Roosevelt Greenway bike trail near Seattle?,length,natural,fresh,seattle
+3b842d4f964f,2026-11-22-r1,2026-11-22,bike_trails,bike_path,"Is the 7th Avenue Bike Path bike trail near Seattle paved, gravel, or dirt?",surface,natural,fresh,seattle
+fb9e3b29d300,2026-11-22-r1,2026-11-22,bike_trails,bike_route,How long is the BicyclePA Route E bike trail near Philadelphia?,length,natural,stable,philadelphia
+4845689e5cf7,2026-11-22-r1,2026-11-22,bike_trails,bike_path,"Is the Mauritskade bike trail near Amsterdam paved, gravel, or dirt?",surface,natural,stable,amsterdam
+0a6e63139131,2026-11-22-r1,2026-11-22,bike_trails,bike_route,How long is the Gladstone-Center Bike Boulevard bike trail near Portland?,length,natural,stable,portland
+5563a185fa7e,2026-11-22-r1,2026-11-22,bike_trails,bike_route,What is the official website for the Stadhaven route bike trail near Amsterdam?,website,natural,stable,amsterdam
